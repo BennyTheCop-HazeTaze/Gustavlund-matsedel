@@ -1,28 +1,60 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Hämtar veckomeny från Matilda (även embed-länk) och skriver ut en iCal-fil (matsedel.ics).
+Matilda (embed eller week-URL) → iCal (matsedel.ics)
 
-Användning:
-  - Sätt env-variabler:
-      MATILDA_URL="https://menu.matildaplatform.com/sv/embed/?displayMode=Week&distributorId=68ac1bbbdbb15510595ff42d"
-      CAL_NAME="Gustavlundsskolan matsedel"
-      OUT_ICS="matsedel.ics"   (valfritt, default matsedel.ics)
-  - Eller skicka MATILDA_URL som första argv.
+Logik:
+- Mån–fre: hämta NUVARANDE vecka (mån–sön)
+- Lör–sön: hämta NÄSTA vecka (mån–sön)
 
-Scriptet letar efter __NEXT_DATA__ (Next.js) och plockar ut dagar och rätter generiskt.
+Miljövariabler:
+  MATILDA_URL  (din embed- ELLER week-URL, t.ex. https://menu.matildaplatform.com/meals/week/68ac1bbbdbb15510595ff42d_forskolaskola)
+  CAL_NAME     (t.ex. "Gustavlundsskolan matsedel")
+  OUT_ICS      (default: matsedel.ics)
+
+Tips: Vill du tvinga en specifik vecka (felsökning) kan du sätta:
+  FORCE_START=YYYY-MM-DD
+  FORCE_END=YYYY-MM-DD
 """
 
 import os, sys, re, json, datetime as dt
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 import requests
 from bs4 import BeautifulSoup
 
 TZ = "Europe/Stockholm"
 
+def week_bounds_mo_su(d: dt.date):
+    monday = d - dt.timedelta(days=d.weekday())  # 0=mån
+    sunday = monday + dt.timedelta(days=6)
+    return monday, sunday
+
+def target_week_bounds(today: dt.date):
+    wd = today.weekday()  # 0=mån ... 5=lör, 6=sön
+    if wd >= 5:
+        # Lör–sön: visa NÄSTA vecka
+        base = today + dt.timedelta(days=(7 - wd))  # nästa måndag
+    else:
+        # Mån–fre: visa nuvarande vecka
+        base = today
+    return week_bounds_mo_su(base)
+
+def add_week_query_to_week_url(url: str, start: dt.date, end: dt.date) -> str:
+    """
+    Om URL är en /meals/week/...-länk, lägg till ?startDate=YYYY-MM-DD&endDate=YYYY-MM-DD.
+    Om det redan finns query → skriv över startDate/endDate.
+    För embed-URL funkar det oftast också, då Matilda läser query-parametrar.
+    """
+    u = urlparse(url)
+    q = parse_qs(u.query)
+    q["startDate"] = [start.isoformat()]
+    q["endDate"] = [end.isoformat()]
+    new_query = urlencode({k: v[0] for k, v in q.items()})
+    return urlunparse((u.scheme, u.netloc, u.path, u.params, new_query, u.fragment))
+
 def fetch_html(url):
     headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; Matilda-ICS/1.1)",
+        "User-Agent": "Mozilla/5.0 (compatible; Matilda-ICS/1.2)",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     }
     r = requests.get(url, headers=headers, timeout=30)
@@ -40,7 +72,6 @@ def find_next_data(html: str):
         return None
 
 def walk(obj):
-    """Rekursiv sökning efter menyblock."""
     found = []
     if isinstance(obj, dict):
         for k, v in obj.items():
@@ -54,17 +85,13 @@ def walk(obj):
     return found
 
 def extract_entries(next_data):
-    """
-    Försöker få ut [(date, [rätt1, rätt2,...]), ...].
-    Robust mot namnskiftningar genom att leta generiskt.
-    """
     meal_lists = walk(next_data)
     entries = []
     for lst in meal_lists:
         for item in lst:
             if not isinstance(item, dict):
                 continue
-            # Datum
+            # datum
             d = None
             for dk in ("date","day","servedDate","menuDate"):
                 if dk in item and item[dk]:
@@ -73,7 +100,7 @@ def extract_entries(next_data):
                         break
                     except Exception:
                         pass
-            # Rätter
+            # texter
             texts = []
             for mk in ("meals","dishes","courses","menuRows","items"):
                 if mk in item and isinstance(item[mk], list):
@@ -88,7 +115,6 @@ def extract_entries(next_data):
                             s = m.strip()
                             if s and s not in texts:
                                 texts.append(s)
-            # Fallback (text direkt på item)
             for nk in ("name","title","label","description","text"):
                 if nk in item and item[nk]:
                     s = str(item[nk]).strip()
@@ -98,7 +124,6 @@ def extract_entries(next_data):
             if d and texts:
                 entries.append((d, texts))
 
-    # slå ihop per datum
     merged = {}
     for d, lst in entries:
         merged.setdefault(d, [])
@@ -133,20 +158,19 @@ def build_ics(cal_name, daily_meals):
         f"X-WR-TIMEZONE:{TZ}",
     ]
     for d, meals in daily_meals:
-        if not meals:
-            continue
-        # Rensa triviala dubblett-rader som ibland finns
         clean = []
         seen = set()
         for m in meals:
             m2 = m.strip()
-            if not m2 or m2.lower() in seen:
+            if not m2:
                 continue
-            seen.add(m2.lower())
+            key = m2.lower()
+            if key in seen:
+                continue
+            seen.add(key)
             clean.append(m2)
         if not clean:
             continue
-
         description = "\\n".join(clean).replace("\n", "\\n")
         uid = f"{d.isoformat()}-{abs(hash(description))}@matilda2ics"
         lines += [
@@ -163,14 +187,23 @@ def build_ics(cal_name, daily_meals):
     return "\n".join(lines)
 
 def main():
-    url = os.environ.get("MATILDA_URL") or (sys.argv[1] if len(sys.argv) > 1 else "").strip()
-    if not url:
+    base_url = os.environ.get("MATILDA_URL") or (sys.argv[1] if len(sys.argv) > 1 else "").strip()
+    if not base_url:
         print("ERROR: Ange MATILDA_URL (embed eller week-URL).", file=sys.stderr)
         sys.exit(2)
 
     cal_name_env = os.environ.get("CAL_NAME", "").strip()
     out_ics = os.environ.get("OUT_ICS", "matsedel.ics")
 
+    # Välj vecka enligt lör–sön = nästa vecka
+    today = dt.date.today()
+    if os.environ.get("FORCE_START") and os.environ.get("FORCE_END"):
+        start = dt.date.fromisoformat(os.environ["FORCE_START"])
+        end = dt.date.fromisoformat(os.environ["FORCE_END"])
+    else:
+        start, end = target_week_bounds(today)
+
+    url = add_week_query_to_week_url(base_url, start, end)
     html = fetch_html(url)
     data = find_next_data(html)
     if not data:
@@ -178,13 +211,16 @@ def main():
         sys.exit(3)
 
     entries = extract_entries(data)
-    cal_name = guess_name(data, cal_name_env)
+    # Filtrera på den valda veckan (om sidan råkar returnera mer)
+    entries = [(d, meals) for d, meals in entries if start <= d <= end]
 
+    cal_name = guess_name(data, cal_name_env)
     ics = build_ics(cal_name, entries)
     with open(out_ics, "w", encoding="utf-8") as f:
         f.write(ics)
 
-    print(f"Skrev {out_ics} med {len(entries)} dagar. Kalender: {cal_name}")
+    print(f"Period: {start}–{end} | Dagar: {len(entries)} | Kalender: {cal_name} → {out_ics}")
 
 if __name__ == "__main__":
     main()
+
