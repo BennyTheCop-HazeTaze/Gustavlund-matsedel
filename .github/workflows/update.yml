@@ -2,7 +2,7 @@ name: Uppdatera matsedel (Matilda → ICS)
 
 on:
   schedule:
-    - cron: "15 2 * * 1-5"   # vardagar 02:15 UTC ≈ 04:15/03:15 svensk tid
+    - cron: "15 2 * * *"   # varje dag 02:15 UTC (≈ 03:15/04:15 svensk tid)
   workflow_dispatch:
 
 jobs:
