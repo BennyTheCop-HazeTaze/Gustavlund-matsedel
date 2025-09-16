@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20250915T034751Z
-UID:2025-09-15-8054939050512524122@matilda2ics
-DTSTART;VALUE=DATE:20250915
-DTEND;VALUE=DATE:20250916
-SUMMARY:Matsedel
-DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon och salladsbuffé\nOstsås med rökt hönskött serveras med pasta och salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250915T034751Z
-UID:2025-09-16-3089292696053062935@matilda2ics
+DTSTAMP:20250916T033808Z
+UID:2025-09-16-6628760871832408672@matilda2ics
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
 SUMMARY:Matsedel
 DESCRIPTION:Grönsaksnuggets serveras med klyftpotatis och kall sweet chilisås serveras med salladsbuffé\nSpaghetti Bolognese på nötfärs serveras med salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250915T034751Z
-UID:2025-09-17-6501907900691141771@matilda2ics
+DTSTAMP:20250916T033808Z
+UID:2025-09-17-8784811230660667557@matilda2ics
 DTSTART;VALUE=DATE:20250917
 DTEND;VALUE=DATE:20250918
 SUMMARY:Matsedel
 DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad, filmjölk samt sallladsbuffé\nEgenpanerad fisk serveras med kokt potatis och remouladsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250915T034751Z
-UID:2025-09-18-5782894819574364705@matilda2ics
+DTSTAMP:20250916T033808Z
+UID:2025-09-18-4838511039603005075@matilda2ics
 DTSTART;VALUE=DATE:20250918
 DTEND;VALUE=DATE:20250919
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nKålpudding serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250915T034751Z
-UID:2025-09-19-2331554977219716930@matilda2ics
+DTSTAMP:20250916T033808Z
+UID:2025-09-19-6744447571980553485@matilda2ics
 DTSTART;VALUE=DATE:20250919
 DTEND;VALUE=DATE:20250920
 SUMMARY:Matsedel
