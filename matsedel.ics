@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20250920T033553Z
-UID:2025-09-22-3620451892335234905@matilda2ics
+DTSTAMP:20250921T034623Z
+UID:2025-09-22-7360837139605725974@matilda2ics
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbolognese serveras med pasta och salladsbuffé\nKöttbullar serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T033553Z
-UID:2025-09-23-7171220636469250161@matilda2ics
+DTSTAMP:20250921T034623Z
+UID:2025-09-23-2674080377351494610@matilda2ics
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nKyckling i curry serveras med matvete och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T033553Z
-UID:2025-09-24-5338681053286750858@matilda2ics
+DTSTAMP:20250921T034623Z
+UID:2025-09-24-6935234413764782520@matilda2ics
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost, fukt och salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T033553Z
-UID:2025-09-25-3066452230444180959@matilda2ics
+DTSTAMP:20250921T034623Z
+UID:2025-09-25-8371366637788443951@matilda2ics
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T033553Z
-UID:2025-09-26-1738827659980125285@matilda2ics
+DTSTAMP:20250921T034623Z
+UID:2025-09-26-1076654065931859586@matilda2ics
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 SUMMARY:Matsedel
