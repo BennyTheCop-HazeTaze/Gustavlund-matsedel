@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20250922T034719Z
-UID:2025-09-22-2720898027265596175@matilda2ics
-DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250923
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbolognese serveras med pasta och salladsbuffé\nKöttbullar serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250922T034719Z
-UID:2025-09-23-7807047350926845664@matilda2ics
+DTSTAMP:20250923T033850Z
+UID:2025-09-23-8352530458326265692@matilda2ics
 DTSTART;VALUE=DATE:20250923
 DTEND;VALUE=DATE:20250924
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nKyckling i curry serveras med matvete och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T034719Z
-UID:2025-09-24-259372708873230430@matilda2ics
+DTSTAMP:20250923T033850Z
+UID:2025-09-24-5195302712712915610@matilda2ics
 DTSTART;VALUE=DATE:20250924
 DTEND;VALUE=DATE:20250925
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost, fukt och salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T034719Z
-UID:2025-09-25-1900741575065373315@matilda2ics
+DTSTAMP:20250923T033850Z
+UID:2025-09-25-1622226321470673121@matilda2ics
 DTSTART;VALUE=DATE:20250925
 DTEND;VALUE=DATE:20250926
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T034719Z
-UID:2025-09-26-5826398209832061513@matilda2ics
+DTSTAMP:20250923T033850Z
+UID:2025-09-26-1821391556672244684@matilda2ics
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 SUMMARY:Matsedel
