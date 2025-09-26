@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20250925T034329Z
-UID:2025-09-25-3455646177164046224@matilda2ics
-DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250926
-SUMMARY:Matsedel
-DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T034329Z
-UID:2025-09-26-3726073213095669758@matilda2ics
+DTSTAMP:20250926T034002Z
+UID:2025-09-26-5320543782889423277@matilda2ics
 DTSTART;VALUE=DATE:20250926
 DTEND;VALUE=DATE:20250927
 SUMMARY:Matsedel
