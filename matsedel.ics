@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20250926T034002Z
-UID:2025-09-26-5320543782889423277@matilda2ics
-DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250927
+DTSTAMP:20250927T033517Z
+UID:2025-09-29-5152677872814374534@matilda2ics
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20250930
 SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nSprödbakad fisk serveras med potatismos och kall örtsås, citron samt salladsbuffé\nStekt strömmingsflundra serveras med potatismos, rårörda lingon, citron och salladsbuffé\nLunch
+DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris och salladsbuffé\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno" serveras med salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250927T033517Z
+UID:2025-09-30-5642886348688483569@matilda2ics
+DTSTART;VALUE=DATE:20250930
+DTEND;VALUE=DATE:20251001
+SUMMARY:Matsedel
+DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis och tomatsås samt salladsbuffé\nChilikyckling serveras med ugnsrostad potatis och salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250927T033517Z
+UID:2025-10-01-2866709979345431622@matilda2ics
+DTSTART;VALUE=DATE:20251001
+DTEND;VALUE=DATE:20251002
+SUMMARY:Matsedel
+DESCRIPTION:Barns och elevers val\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250927T033517Z
+UID:2025-10-02-890116825769381486@matilda2ics
+DTSTART;VALUE=DATE:20251002
+DTEND;VALUE=DATE:20251003
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med spaghetti och tomatsås samt salladsbuffé\nFiskgratäng med dill serveras med potatismos och ärtor\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250927T033517Z
+UID:2025-10-03-9009324659634524972@matilda2ics
+DTSTART;VALUE=DATE:20251003
+DTEND;VALUE=DATE:20251004
+SUMMARY:Matsedel
+DESCRIPTION:Tacopaj på ärtfärs serveras med tomatsallad, vitlökssås samt salladsbuffé\nVildsvinsbiffar serveras med brunsås, kokt potatis, rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 END:VCALENDAR
