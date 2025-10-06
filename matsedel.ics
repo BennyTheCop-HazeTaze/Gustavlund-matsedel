@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251005T034240Z
-UID:2025-10-06-5850361127231953853@matilda2ics
+DTSTAMP:20251006T034351Z
+UID:2025-10-06-6864778877156263302@matilda2ics
 DTSTART;VALUE=DATE:20251006
 DTEND;VALUE=DATE:20251007
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärslimpa serveras med kokt potatis och havregräddsås, morötter och rårörda lingon samt salladsbuffé\nSpaghetti Bolognese på nötfärs serveras med salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T034240Z
-UID:2025-10-07-7950745598538802045@matilda2ics
+DTSTAMP:20251006T034351Z
+UID:2025-10-07-21818041170417937@matilda2ics
 DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Matsedel
 DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nStekt kycklinglårfilé serveras med klyftpotatis och kall sweet chilisås samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T034240Z
-UID:2025-10-08-1276464273732110078@matilda2ics
+DTSTAMP:20251006T034351Z
+UID:2025-10-08-3954422517833192405@matilda2ics
 DTSTART;VALUE=DATE:20251008
 DTEND;VALUE=DATE:20251009
 SUMMARY:Matsedel
 DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T034240Z
-UID:2025-10-09-1084178774233405798@matilda2ics
+DTSTAMP:20251006T034351Z
+UID:2025-10-09-5818046198829068351@matilda2ics
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt samt salladsbuffé\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T034240Z
-UID:2025-10-10-9000664364291519028@matilda2ics
+DTSTAMP:20251006T034351Z
+UID:2025-10-10-3573067880419596421@matilda2ics
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:Matsedel
