@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251008T033940Z
-UID:2025-10-08-6040367483960634758@matilda2ics
-DTSTART;VALUE=DATE:20251008
-DTEND;VALUE=DATE:20251009
-SUMMARY:Matsedel
-DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251008T033940Z
-UID:2025-10-09-3806285485895238886@matilda2ics
+DTSTAMP:20251009T034226Z
+UID:2025-10-09-61087261395549478@matilda2ics
 DTSTART;VALUE=DATE:20251009
 DTEND;VALUE=DATE:20251010
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt samt salladsbuffé\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251008T033940Z
-UID:2025-10-10-1203833763510816545@matilda2ics
+DTSTAMP:20251009T034226Z
+UID:2025-10-10-5653700643659108569@matilda2ics
 DTSTART;VALUE=DATE:20251010
 DTEND;VALUE=DATE:20251011
 SUMMARY:Matsedel
