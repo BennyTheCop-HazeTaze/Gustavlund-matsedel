@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251010T034156Z
-UID:2025-10-10-7787507921017250783@matilda2ics
-DTSTART;VALUE=DATE:20251010
-DTEND;VALUE=DATE:20251011
+DTSTAMP:20251011T033410Z
+UID:2025-10-13-4354137936867300874@matilda2ics
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251014
 SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa samt salladsbuffé\nPannbiff med stekt lök serveras med kokt potatis och brunsås, broccoli samt salladsbuffé\nLunch
+DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251011T033410Z
+UID:2025-10-14-861775390289046254@matilda2ics
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+SUMMARY:Matsedel
+DESCRIPTION:Pumpasoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251011T033410Z
+UID:2025-10-15-2616965253240009237@matilda2ics
+DTSTART;VALUE=DATE:20251015
+DTEND;VALUE=DATE:20251016
+SUMMARY:Matsedel
+DESCRIPTION:Gratinerad Burrito serveras med vitlökssås och salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251011T033410Z
+UID:2025-10-16-1630080272757515507@matilda2ics
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251017
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé\nLunch\nÄppelkaka\nExtra1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251011T033410Z
+UID:2025-10-17-1927861788658168432@matilda2ics
+DTSTART;VALUE=DATE:20251017
+DTEND;VALUE=DATE:20251018
+SUMMARY:Matsedel
+DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nKyckling i dragonsås serveras med matvete och salladsbuffe\nLunch
 END:VEVENT
 END:VCALENDAR
