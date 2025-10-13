@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251012T034203Z
-UID:2025-10-13-1105068367459688924@matilda2ics
+DTSTAMP:20251013T035030Z
+UID:2025-10-13-1030437704157801246@matilda2ics
 DTSTART;VALUE=DATE:20251013
 DTEND;VALUE=DATE:20251014
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251012T034203Z
-UID:2025-10-14-5998006254442261236@matilda2ics
+DTSTAMP:20251013T035030Z
+UID:2025-10-14-2809100784983548802@matilda2ics
 DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
 SUMMARY:Matsedel
 DESCRIPTION:Pumpasoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251012T034203Z
-UID:2025-10-15-6678999552342475593@matilda2ics
+DTSTAMP:20251013T035030Z
+UID:2025-10-15-1122966161148710492@matilda2ics
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Matsedel
 DESCRIPTION:Gratinerad Burrito serveras med vitlökssås och salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251012T034203Z
-UID:2025-10-16-9001006366283011447@matilda2ics
+DTSTAMP:20251013T035030Z
+UID:2025-10-16-4787216232755530578@matilda2ics
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé\nLunch\nÄppelkaka\nExtra1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251012T034203Z
-UID:2025-10-17-2601118270657750365@matilda2ics
+DTSTAMP:20251013T035030Z
+UID:2025-10-17-6010227824234538600@matilda2ics
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:Matsedel
