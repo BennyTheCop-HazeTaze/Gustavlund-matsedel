@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251015T034510Z
-UID:2025-10-15-47900292334312023@matilda2ics
-DTSTART;VALUE=DATE:20251015
-DTEND;VALUE=DATE:20251016
-SUMMARY:Matsedel
-DESCRIPTION:Gratinerad Burrito serveras med vitlökssås och salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251015T034510Z
-UID:2025-10-16-1015061411626444407@matilda2ics
+DTSTAMP:20251016T031054Z
+UID:2025-10-16-6238718734164687722@matilda2ics
 DTSTART;VALUE=DATE:20251016
 DTEND;VALUE=DATE:20251017
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé\nLunch\nÄppelkaka\nExtra1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251015T034510Z
-UID:2025-10-17-3058297898320900291@matilda2ics
+DTSTAMP:20251016T031054Z
+UID:2025-10-17-5622620234269059762@matilda2ics
 DTSTART;VALUE=DATE:20251017
 DTEND;VALUE=DATE:20251018
 SUMMARY:Matsedel
