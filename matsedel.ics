@@ -5,27 +5,59 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251017T030859Z
-UID:2025-10-17-1756361063166171005@matilda2ics
-DTSTART;VALUE=DATE:20251017
-DTEND;VALUE=DATE:20251018
+DTSTAMP:20251018T030244Z
+UID:2025-10-20-2048813977259632947@matilda2ics
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
 SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nKyckling i dragonsås serveras med matvete och salladsbuffe\nLunch\nHoppsan! Här har det dykt upp fler maträtter än vanligt. Våra härliga hjältar i Måltidsorganisationen arbetar med att rätta till Menyn. Men du kan vara lugn - Lunchen i Menyn stämmer med vad som serveras i förskola och skola. Trevlig helg önskar Måltidsorganisationen!\nCrepes med champinjonstuvning serveras med broccoli och morotsmix\nKalkonpaj serveras med kall currysås med smak av äpple samt kokt broccoli\nTimbal - Crêpe med köttfyllning serveras med Rhode Islandsås och morot\nMiddag
+DESCRIPTION:Skogssvampsås serveras med pasta samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall dillsås, citron samt salladsbuffé\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Matdistributionen!\nKrämig laxpasta med dill och pepparrot serveras med pasta och haricots verts\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Laxbiff serveras med kall örtsås, potatismos och ärtor\nMiddag
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251017T030859Z
-UID:2025-10-18-3926593417673238695@matilda2ics
-DTSTART;VALUE=DATE:20251018
-DTEND;VALUE=DATE:20251019
+DTSTAMP:20251018T030244Z
+UID:2025-10-21-1835121827844887618@matilda2ics
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
 SUMMARY:Matsedel
-DESCRIPTION:Bakad potatis serveras med ägg och tonfiskröra smaksatt med kapris och rödlök\nKalkonpaj serveras med kall currysås med smak av äpple samt kokt broccoli\nTimbal - Potatis och skinkgratäng serveras med broccoli\nMiddag
+DESCRIPTION:Grönsaksbiff Caribbien serveras med klyftpotatis och het tomatsås samt salladsbuffé\nKokt korv serveras med potatismos, kokta morötter och salladsbuffé\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Matdistributionen!\nBrynt kålsoppa med frikadeller serveras med osttoast\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Potatis och skinkgratäng serveras med broccoli\nMiddag
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251017T030859Z
-UID:2025-10-19-2342394638681781591@matilda2ics
-DTSTART;VALUE=DATE:20251019
-DTEND;VALUE=DATE:20251020
+DTSTAMP:20251018T030244Z
+UID:2025-10-22-5748702882706478746@matilda2ics
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251023
 SUMMARY:Matsedel
-DESCRIPTION:Prinskorv serveras med stekt ägg, stekt potatis, senapssås och haricots verts\nRisgrynsgröt\nTimbal - Prinskorv serveras med stekt potatis, senapscréme, stekt ägg och broccoli\nMiddag
+DESCRIPTION:Krämig broccolisoppa serveras med bröd, ost och frukt samt salladsbuffé\nNikkaluoktasoppa på vildsvin serveras med bröd, ost och frukt samt salladsbuffé\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Matdistributionen!\nStekt strömmingsflundra serveras med potatismos, skirat smör, lingonsylt och gröna ärtor samt sallad\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Kräftströmming serveras med potatismos och ärter\nMiddag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T030244Z
+UID:2025-10-23-1281337780431560840@matilda2ics
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:Matsedel
+DESCRIPTION:Barns och elevers val\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Matdistributionen!\nBondomelett med rökt hönskött serveras med paprikasås, varma grönsaker och sallad\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Bondomelett serveras med en gräddfilssås och ärtor\nMiddag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T030244Z
+UID:2025-10-24-6805470952157953819@matilda2ics
+DTSTART;VALUE=DATE:20251024
+DTEND;VALUE=DATE:20251025
+SUMMARY:Matsedel
+DESCRIPTION:Kebabish i libabröd serveras med dressing och salladsbuffé\nHälften/ hälften köttbullar serveras med kokt potatis och brunsås, pressgurka, rårörda lingon samt salladsbuffé\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Matdistributionen!\nÄgg och falukorvs macka med senapscreme rivet äpple och persilja\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Stekt falukorv serveras med stuvade makaroner, ärtor och morötter (timbal)\nMiddag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T030244Z
+UID:2025-10-25-2539969102188732122@matilda2ics
+DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+SUMMARY:Matsedel
+DESCRIPTION:Janssons frestelse serveras med köttbullar och skivade morötter\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Janssons frestelse serveras med köttbullar, kaviarsås och majs\nMiddag
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T030244Z
+UID:2025-10-26-5290183644353777803@matilda2ics
+DTSTART;VALUE=DATE:20251026
+DTEND;VALUE=DATE:20251027
+SUMMARY:Matsedel
+DESCRIPTION:Omelett serveras med räkstuvning och gröna ärtor\nRisgrynsgröt\nTimbal - Omelett serveras med palsternacksstuvning, köttbullar och morot\nMiddag
 END:VEVENT
 END:VCALENDAR
