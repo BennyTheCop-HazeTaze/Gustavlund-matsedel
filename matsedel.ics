@@ -5,35 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251023T031111Z
-UID:2025-10-23-2059401586626752501@matilda2ics
-DTSTART;VALUE=DATE:20251023
-DTEND;VALUE=DATE:20251024
+DTSTAMP:20251026T211134Z
+UID:2025-10-27-3998764950431336658@matilda2ics
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251028
 SUMMARY:Matsedel
-DESCRIPTION:Barns och elevers val\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Skola och förskola!\nBondomelett med rökt hönskött serveras med paprikasås, varma grönsaker och sallad\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Bondomelett serveras med en gräddfilssås och ärtor\nMiddag
+DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon och salladsbuffé\nOst och skinksås serveras med pasta, broccoli samt och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T031111Z
-UID:2025-10-24-4812850999587525196@matilda2ics
-DTSTART;VALUE=DATE:20251024
-DTEND;VALUE=DATE:20251025
+DTSTAMP:20251026T211134Z
+UID:2025-10-28-3104800675023917177@matilda2ics
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
 SUMMARY:Matsedel
-DESCRIPTION:Kebabish i libabröd serveras med dressing och salladsbuffé\nHälften/ hälften köttbullar serveras med kokt potatis och brunsås, pressgurka, rårörda lingon samt salladsbuffé\nLunch\nDriftstörning - felaktig matsedel är publicerad men våra hjältar i Måltidsorganisationen jobbar så snabbt dom kan med att få tillbaka rätt matsedel för Skola och förskola!\nÄgg och falukorvs macka med senapscreme rivet äpple och persilja\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Stekt falukorv serveras med stuvade makaroner, ärtor och morötter (timbal)\nMiddag
+DESCRIPTION:Grönsaksnuggets serveras med havreris och kall sweet chilisås samt salladsbuffé\nSpaghetti Bolognese på nötfärs serveras med salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T031111Z
-UID:2025-10-25-826603719904897140@matilda2ics
-DTSTART;VALUE=DATE:20251025
-DTEND;VALUE=DATE:20251026
+DTSTAMP:20251026T211134Z
+UID:2025-10-29-5013775158380516473@matilda2ics
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
 SUMMARY:Matsedel
-DESCRIPTION:Janssons frestelse serveras med köttbullar och skivade morötter\nKycklingfärsbiff serveras med gräddsås, potatismos och broccoli\nTimbal - Janssons frestelse serveras med köttbullar, kaviarsås och majs\nMiddag
+DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad, filmjölk samt sallladsbuffé\nEgenpanerad fisk serveras med kokt potatis och remouladsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T031111Z
-UID:2025-10-26-59324001990429458@matilda2ics
-DTSTART;VALUE=DATE:20251026
-DTEND;VALUE=DATE:20251027
+DTSTAMP:20251026T211134Z
+UID:2025-10-30-8708314029952175487@matilda2ics
+DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
 SUMMARY:Matsedel
-DESCRIPTION:Omelett serveras med räkstuvning och gröna ärtor\nRisgrynsgröt\nTimbal - Omelett serveras med palsternacksstuvning, köttbullar och morot\nMiddag
+DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nKålpudding serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T211134Z
+UID:2025-10-31-455997786919915434@matilda2ics
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+SUMMARY:Matsedel
+DESCRIPTION:Nudelwok med ärt och bondönstrimlor serveras med kall currysås och salladsbuffé\nKorv Stroganoff med falukorv serveras med havreris och broccoli samt salladsbuffé\nLunch
 END:VEVENT
 END:VCALENDAR
