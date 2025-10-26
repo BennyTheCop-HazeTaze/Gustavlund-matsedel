@@ -8,11 +8,12 @@ Logik:
 - Lör–sön: hämta NÄSTA vecka (mån–sön)
 
 Miljövariabler:
-  MATILDA_URL  (din embed- ELLER week-URL, t.ex. https://menu.matildaplatform.com/meals/week/68ac1bbbdbb15510595ff42d_forskolaskola)
+  MATILDA_URL  (din embed- ELLER week-URL, t.ex.
+                https://menu.matildaplatform.com/sv/embed/?displayMode=Week&distributorId=68f9fc37bf545da84ec60b23)
   CAL_NAME     (t.ex. "Gustavlundsskolan matsedel")
   OUT_ICS      (default: matsedel.ics)
 
-Tips: Vill du tvinga en specifik vecka (felsökning) kan du sätta:
+Felsökning (frivilligt):
   FORCE_START=YYYY-MM-DD
   FORCE_END=YYYY-MM-DD
 """
@@ -41,9 +42,8 @@ def target_week_bounds(today: dt.date):
 
 def add_week_query_to_week_url(url: str, start: dt.date, end: dt.date) -> str:
     """
-    Om URL är en /meals/week/...-länk, lägg till ?startDate=YYYY-MM-DD&endDate=YYYY-MM-DD.
-    Om det redan finns query → skriv över startDate/endDate.
-    För embed-URL funkar det oftast också, då Matilda läser query-parametrar.
+    Lägg till/uppdatera ?startDate=YYYY-MM-DD&endDate=YYYY-MM-DD på URL:en.
+    Fungerar för både /meals/week/... och embed-länkar.
     """
     u = urlparse(url)
     q = parse_qs(u.query)
@@ -54,8 +54,9 @@ def add_week_query_to_week_url(url: str, start: dt.date, end: dt.date) -> str:
 
 def fetch_html(url):
     headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; Matilda-ICS/1.2)",
+        "User-Agent": "Mozilla/5.0 (compatible; Matilda-ICS/1.3)",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "sv-SE,sv;q=0.9,en;q=0.8",
     }
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
@@ -204,11 +205,16 @@ def main():
         start, end = target_week_bounds(today)
 
     url = add_week_query_to_week_url(base_url, start, end)
-    html = fetch_html(url)
+    try:
+        html = fetch_html(url)
+    except Exception as e:
+        print(f"ERROR: Kunde inte hämta URL ({url}): {e}", file=sys.stderr)
+        sys.exit(3)
+
     data = find_next_data(html)
     if not data:
-        print("ERROR: Hittade ingen __NEXT_DATA__ – är URL:en korrekt?", file=sys.stderr)
-        sys.exit(3)
+        print("ERROR: Hittade ingen __NEXT_DATA__ – är URL:en korrekt och är det en Matilda/Next.js-sida?", file=sys.stderr)
+        sys.exit(4)
 
     entries = extract_entries(data)
     # Filtrera på den valda veckan (om sidan råkar returnera mer)
@@ -223,4 +229,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
