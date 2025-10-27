@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251026T211134Z
-UID:2025-10-27-3998764950431336658@matilda2ics
+DTSTAMP:20251027T033435Z
+UID:2025-10-27-7269577874945218137@matilda2ics
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon och salladsbuffé\nOst och skinksås serveras med pasta, broccoli samt och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T211134Z
-UID:2025-10-28-3104800675023917177@matilda2ics
+DTSTAMP:20251027T033435Z
+UID:2025-10-28-1544696120360763716@matilda2ics
 DTSTART;VALUE=DATE:20251028
 DTEND;VALUE=DATE:20251029
 SUMMARY:Matsedel
 DESCRIPTION:Grönsaksnuggets serveras med havreris och kall sweet chilisås samt salladsbuffé\nSpaghetti Bolognese på nötfärs serveras med salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T211134Z
-UID:2025-10-29-5013775158380516473@matilda2ics
+DTSTAMP:20251027T033435Z
+UID:2025-10-29-727121661569144590@matilda2ics
 DTSTART;VALUE=DATE:20251029
 DTEND;VALUE=DATE:20251030
 SUMMARY:Matsedel
 DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad, filmjölk samt sallladsbuffé\nEgenpanerad fisk serveras med kokt potatis och remouladsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T211134Z
-UID:2025-10-30-8708314029952175487@matilda2ics
+DTSTAMP:20251027T033435Z
+UID:2025-10-30-5293164367922339092@matilda2ics
 DTSTART;VALUE=DATE:20251030
 DTEND;VALUE=DATE:20251031
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nKålpudding serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T211134Z
-UID:2025-10-31-455997786919915434@matilda2ics
+DTSTAMP:20251027T033435Z
+UID:2025-10-31-8663052197759381465@matilda2ics
 DTSTART;VALUE=DATE:20251031
 DTEND;VALUE=DATE:20251101
 SUMMARY:Matsedel
