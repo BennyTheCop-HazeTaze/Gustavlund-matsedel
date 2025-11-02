@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251101T031730Z
-UID:2025-11-03-5840112470456331652@matilda2ics
+DTSTAMP:20251102T032109Z
+UID:2025-11-03-3417627208435429251@matilda2ics
 DTSTART;VALUE=DATE:20251103
 DTEND;VALUE=DATE:20251104
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbolognese serveras med pasta och salladsbuffé\nKöttbullar serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T031730Z
-UID:2025-11-04-2542636763823056272@matilda2ics
+DTSTAMP:20251102T032109Z
+UID:2025-11-04-7268913548736171828@matilda2ics
 DTSTART;VALUE=DATE:20251104
 DTEND;VALUE=DATE:20251105
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno" serveras med salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T031730Z
-UID:2025-11-05-5132011357074354682@matilda2ics
+DTSTAMP:20251102T032109Z
+UID:2025-11-05-180062375300679653@matilda2ics
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost, fukt och salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T031730Z
-UID:2025-11-06-8084632543844752315@matilda2ics
+DTSTAMP:20251102T032109Z
+UID:2025-11-06-6636974968052402947@matilda2ics
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T031730Z
-UID:2025-11-07-326186800325207131@matilda2ics
+DTSTAMP:20251102T032109Z
+UID:2025-11-07-2942058245347038149@matilda2ics
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Matsedel
