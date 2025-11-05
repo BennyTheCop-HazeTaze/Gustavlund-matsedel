@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251104T031712Z
-UID:2025-11-04-8740285759184973645@matilda2ics
-DTSTART;VALUE=DATE:20251104
-DTEND;VALUE=DATE:20251105
-SUMMARY:Matsedel
-DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno" serveras med salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251104T031712Z
-UID:2025-11-05-6791743953820220995@matilda2ics
+DTSTAMP:20251105T031836Z
+UID:2025-11-05-5479542556399808737@matilda2ics
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost, fukt och salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251104T031712Z
-UID:2025-11-06-4838653207261721370@matilda2ics
+DTSTAMP:20251105T031836Z
+UID:2025-11-06-1064801868626401829@matilda2ics
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251104T031712Z
-UID:2025-11-07-5633262264836005664@matilda2ics
+DTSTAMP:20251105T031836Z
+UID:2025-11-07-3200524494465863867@matilda2ics
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Matsedel
