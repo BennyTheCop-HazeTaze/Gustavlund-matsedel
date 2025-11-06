@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251105T031836Z
-UID:2025-11-05-5479542556399808737@matilda2ics
-DTSTART;VALUE=DATE:20251105
-DTEND;VALUE=DATE:20251106
-SUMMARY:Matsedel
-DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost, fukt och salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251105T031836Z
-UID:2025-11-06-1064801868626401829@matilda2ics
+DTSTAMP:20251106T032048Z
+UID:2025-11-06-3088375431272966205@matilda2ics
 DTSTART;VALUE=DATE:20251106
 DTEND;VALUE=DATE:20251107
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli, rårörda lingon och salladsbuffé\nBlodpudding serveras med rårörda lingon och salladsbuffé\nKroppkakor /kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T031836Z
-UID:2025-11-07-3200524494465863867@matilda2ics
+DTSTAMP:20251106T032048Z
+UID:2025-11-07-5398212764932282416@matilda2ics
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251108
 SUMMARY:Matsedel
