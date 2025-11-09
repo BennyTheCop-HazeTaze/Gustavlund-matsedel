@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251108T031043Z
-UID:2025-11-10-7741990723692289878@matilda2ics
+DTSTAMP:20251109T031915Z
+UID:2025-11-10-690946475179348414@matilda2ics
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251111
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsburgare serveras med bröd, klyftpotatis, dressing och picklad lök samt salladsbuffé\nKycklingfärsburgare serveras med bröd, klyftpotatis och dressing samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251108T031043Z
-UID:2025-11-11-8032320705801041928@matilda2ics
+DTSTAMP:20251109T031915Z
+UID:2025-11-11-8059540047178464424@matilda2ics
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med pasta och tomatsås samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251108T031043Z
-UID:2025-11-12-2084871399730119728@matilda2ics
+DTSTAMP:20251109T031915Z
+UID:2025-11-12-7810908317215232123@matilda2ics
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Matsedel
 DESCRIPTION:Vegansk grillkorv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffé\nKokt korv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffe\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251108T031043Z
-UID:2025-11-13-7018675443883023362@matilda2ics
+DTSTAMP:20251109T031915Z
+UID:2025-11-13-4875654013207234255@matilda2ics
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nKöttbullar serveras med stuvade makaroner och salladsbuffé\nLunch\nBrownie\nExtra1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251108T031043Z
-UID:2025-11-14-5510635218349120299@matilda2ics
+DTSTAMP:20251109T031915Z
+UID:2025-11-14-83172263006063524@matilda2ics
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Matsedel
