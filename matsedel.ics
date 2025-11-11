@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251110T033358Z
-UID:2025-11-10-886808916145210522@matilda2ics
-DTSTART;VALUE=DATE:20251110
-DTEND;VALUE=DATE:20251111
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsburgare serveras med bröd, klyftpotatis, dressing och picklad lök samt salladsbuffé\nKycklingfärsburgare serveras med bröd, klyftpotatis och dressing samt salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251110T033358Z
-UID:2025-11-11-272680211397220551@matilda2ics
+DTSTAMP:20251111T032011Z
+UID:2025-11-11-5295865455528983901@matilda2ics
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med pasta och tomatsås samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T033358Z
-UID:2025-11-12-2838200063816627749@matilda2ics
+DTSTAMP:20251111T032011Z
+UID:2025-11-12-8219604053481946275@matilda2ics
 DTSTART;VALUE=DATE:20251112
 DTEND;VALUE=DATE:20251113
 SUMMARY:Matsedel
 DESCRIPTION:Vegansk grillkorv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffé\nKokt korv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffe\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T033358Z
-UID:2025-11-13-6146275339987665986@matilda2ics
+DTSTAMP:20251111T032011Z
+UID:2025-11-13-63856154732671511@matilda2ics
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nKöttbullar serveras med stuvade makaroner och salladsbuffé\nLunch\nBrownie\nExtra1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T033358Z
-UID:2025-11-14-7045560999158537884@matilda2ics
+DTSTAMP:20251111T032011Z
+UID:2025-11-14-8468250205218577210@matilda2ics
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Matsedel
