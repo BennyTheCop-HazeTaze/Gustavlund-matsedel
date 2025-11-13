@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251112T031900Z
-UID:2025-11-12-3675887385457705817@matilda2ics
-DTSTART;VALUE=DATE:20251112
-DTEND;VALUE=DATE:20251113
-SUMMARY:Matsedel
-DESCRIPTION:Vegansk grillkorv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffé\nKokt korv serveras med potatismos och korvbröd, kokta morötter samt salladsbuffe\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251112T031900Z
-UID:2025-11-13-1007472383541215705@matilda2ics
+DTSTAMP:20251113T032057Z
+UID:2025-11-13-4726665914162459809@matilda2ics
 DTSTART;VALUE=DATE:20251113
 DTEND;VALUE=DATE:20251114
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med stuvade makaroner serveras med salladsbuffé\nKöttbullar serveras med stuvade makaroner och salladsbuffé\nLunch\nBrownie\nExtra1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T031900Z
-UID:2025-11-14-681809308357723218@matilda2ics
+DTSTAMP:20251113T032057Z
+UID:2025-11-14-5042190354781756129@matilda2ics
 DTSTART;VALUE=DATE:20251114
 DTEND;VALUE=DATE:20251115
 SUMMARY:Matsedel
