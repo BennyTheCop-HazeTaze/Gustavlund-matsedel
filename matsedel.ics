@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251114T031934Z
-UID:2025-11-14-2269973604770006191@matilda2ics
-DTSTART;VALUE=DATE:20251114
-DTEND;VALUE=DATE:20251115
+DTSTAMP:20251115T031448Z
+UID:2025-11-17-4787769025478408884@matilda2ics
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
 SUMMARY:Matsedel
-DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nTacos med nötfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nLunch
+DESCRIPTION:Ärtfärslimpa serveras med kokt potatis och havregräddsås, morötter och rårörda lingon samt salladsbuffé\nSpaghetti Bolognese på nötfärs serveras med salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T031448Z
+UID:2025-11-18-8016744208987804250@matilda2ics
+DTSTART;VALUE=DATE:20251118
+DTEND;VALUE=DATE:20251119
+SUMMARY:Matsedel
+DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nUgnsgratinerad kycklingkorv serveras med potatismos och salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T031448Z
+UID:2025-11-19-8195990229034011399@matilda2ics
+DTSTART;VALUE=DATE:20251119
+DTEND;VALUE=DATE:20251120
+SUMMARY:Matsedel
+DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T031448Z
+UID:2025-11-20-2311480412199939454@matilda2ics
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Matsedel
+DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt samt salladsbuffé\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T031448Z
+UID:2025-11-21-4686869494185982777@matilda2ics
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Matsedel
+DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa samt salladsbuffé\nPannbiff med stekt lök serveras med kokt potatis och brunsås, broccoli samt salladsbuffé\nLunch
 END:VEVENT
 END:VCALENDAR
