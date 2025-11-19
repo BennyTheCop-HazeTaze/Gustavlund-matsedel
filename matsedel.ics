@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251118T031913Z
-UID:2025-11-18-8120040320454542701@matilda2ics
-DTSTART;VALUE=DATE:20251118
-DTEND;VALUE=DATE:20251119
-SUMMARY:Matsedel
-DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nUgnsgratinerad kycklingkorv serveras med potatismos och salladsbuffé\nLunch
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251118T031913Z
-UID:2025-11-19-1461534608509150069@matilda2ics
+DTSTAMP:20251119T031858Z
+UID:2025-11-19-7769664662653589443@matilda2ics
 DTSTART;VALUE=DATE:20251119
 DTEND;VALUE=DATE:20251120
 SUMMARY:Matsedel
 DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor samt salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251118T031913Z
-UID:2025-11-20-4305458906548547564@matilda2ics
+DTSTAMP:20251119T031858Z
+UID:2025-11-20-6054734656446053327@matilda2ics
 DTSTART;VALUE=DATE:20251120
 DTEND;VALUE=DATE:20251121
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt samt salladsbuffé\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251118T031913Z
-UID:2025-11-21-3464878642929156647@matilda2ics
+DTSTAMP:20251119T031858Z
+UID:2025-11-21-613293322307726499@matilda2ics
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Matsedel
