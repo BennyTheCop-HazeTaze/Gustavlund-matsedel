@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251121T031753Z
-UID:2025-11-21-4618939472342399960@matilda2ics
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
+DTSTAMP:20251122T031257Z
+UID:2025-11-24-2565259210170355234@matilda2ics
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251125
 SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa samt salladsbuffé\nPannbiff med stekt lök serveras med kokt potatis och brunsås, broccoli samt salladsbuffé\nLunch
+DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T031257Z
+UID:2025-11-25-3928838761718414925@matilda2ics
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20251126
+SUMMARY:Matsedel
+DESCRIPTION:Pumpasoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T031257Z
+UID:2025-11-26-5056116771562100673@matilda2ics
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon samt salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T031257Z
+UID:2025-11-27-1933452157027488604@matilda2ics
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+SUMMARY:Matsedel
+DESCRIPTION:Gratinerad Burrito serveras med vitlökssås och salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé\nLunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T031257Z
+UID:2025-11-28-2292489011592498636@matilda2ics
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+SUMMARY:Matsedel
+DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nFläskköttgryta mmed dragonsmak serveras med havreris och salladsbuffe\nLunch
 END:VEVENT
 END:VCALENDAR
