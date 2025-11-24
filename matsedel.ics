@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251123T034159Z
-UID:2025-11-24-2945405937312746242@matilda2ics
+DTSTAMP:20251124T033935Z
+UID:2025-11-24-1404784113608371709@matilda2ics
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T034159Z
-UID:2025-11-25-3062783894240381628@matilda2ics
+DTSTAMP:20251124T033935Z
+UID:2025-11-25-1520784389520771876@matilda2ics
 DTSTART;VALUE=DATE:20251125
 DTEND;VALUE=DATE:20251126
 SUMMARY:Matsedel
 DESCRIPTION:Pumpasoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T034159Z
-UID:2025-11-26-5881653185749079178@matilda2ics
+DTSTAMP:20251124T033935Z
+UID:2025-11-26-5801924438350659399@matilda2ics
 DTSTART;VALUE=DATE:20251126
 DTEND;VALUE=DATE:20251127
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon samt salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T034159Z
-UID:2025-11-27-282291735829813475@matilda2ics
+DTSTAMP:20251124T033935Z
+UID:2025-11-27-139197048376687182@matilda2ics
 DTSTART;VALUE=DATE:20251127
 DTEND;VALUE=DATE:20251128
 SUMMARY:Matsedel
 DESCRIPTION:Gratinerad Burrito serveras med vitlökssås och salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé\nLunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T034159Z
-UID:2025-11-28-3194254256711955712@matilda2ics
+DTSTAMP:20251124T033935Z
+UID:2025-11-28-4240691469966305293@matilda2ics
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 SUMMARY:Matsedel
