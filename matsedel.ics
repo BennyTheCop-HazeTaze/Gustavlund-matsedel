@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251210T033839Z
-UID:2025-12-10-357057336053983375@matilda2ics
-DTSTART;VALUE=DATE:20251210
-DTEND;VALUE=DATE:20251211
-SUMMARY:Matsedel
-DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad, filmjölk samt sallladsbuffé\nEgenpanerad fisk serveras med kokt potatis och remouladsås, ärtor, citron samt salladsbuffé
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251210T033839Z
-UID:2025-12-11-7818270359311787316@matilda2ics
+DTSTAMP:20251211T034016Z
+UID:2025-12-11-1901512380909090625@matilda2ics
 DTSTART;VALUE=DATE:20251211
 DTEND;VALUE=DATE:20251212
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd och vitlökssås, tomatsalsa samt salladsbuffé\nKålpudding serveras med kokt potatis och brunsås, morötter, rårörda lingon samt salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251210T033839Z
-UID:2025-12-12-7630338473718813708@matilda2ics
+DTSTAMP:20251211T034016Z
+UID:2025-12-12-1857198447251138377@matilda2ics
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 SUMMARY:Matsedel
