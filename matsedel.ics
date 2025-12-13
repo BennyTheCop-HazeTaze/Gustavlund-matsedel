@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251212T033957Z
-UID:2025-12-12-2526106066258349722@matilda2ics
-DTSTART;VALUE=DATE:20251212
-DTEND;VALUE=DATE:20251213
+DTSTAMP:20251213T033104Z
+UID:2025-12-15-664711358005941567@matilda2ics
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
 SUMMARY:Matsedel
-DESCRIPTION:Nudelwok med ärt och bondbönstrimlor serveras med kall currysås och salladsbuffé\nKorv Stroganoff med kycklingkorv serveras med havreris och broccoli samt salladsbuffé
+DESCRIPTION:Ärtfärsbolognese serveras med pasta och salladsbuffé\nHonungsglaserade revben serveras med kokt potatis och brunsås, rödkål samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T033104Z
+UID:2025-12-16-4561569008029253175@matilda2ics
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+SUMMARY:Matsedel
+DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nSprödbakad fisk serveras med potatismos och kall örtsås, citron samt salladsbuffé\nStekt strömmingsflundra serveras med potatismos, rårörda lingon, citron och salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T033104Z
+UID:2025-12-17-7372087589881795578@matilda2ics
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+SUMMARY:Matsedel
+DESCRIPTION:Vår gröna julinspirerade lunch\nJulinspirerad lunch
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T033104Z
+UID:2025-12-18-3450039894539222228@matilda2ics
+DTSTART;VALUE=DATE:20251218
+DTEND;VALUE=DATE:20251219
+SUMMARY:Matsedel
+DESCRIPTION:Grönkålspaj serveras med kall örtsås och salladsbuffé\nKokt julkorv serveras med kokt potatis och senapssås, brysselkål samt salladbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T033104Z
+UID:2025-12-19-4384152105304723092@matilda2ics
+DTSTART;VALUE=DATE:20251219
+DTEND;VALUE=DATE:20251220
+SUMMARY:Matsedel
+DESCRIPTION:Risgrynsgröt serveras med bröd, ost och frukt samt salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé
 END:VEVENT
 END:VCALENDAR
