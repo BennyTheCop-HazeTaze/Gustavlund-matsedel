@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251215T034855Z
-UID:2025-12-15-1209984684419103862@matilda2ics
-DTSTART;VALUE=DATE:20251215
-DTEND;VALUE=DATE:20251216
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbolognese serveras med pasta och salladsbuffé\nHonungsglaserade revben serveras med kokt potatis och brunsås, rödkål samt salladsbuffé
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T034855Z
-UID:2025-12-16-739152527135754387@matilda2ics
+DTSTAMP:20251216T034047Z
+UID:2025-12-16-8147616618247353394@matilda2ics
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök, vitlökssås och salladsbuffé\nSprödbakad fisk serveras med potatismos och kall örtsås, citron samt salladsbuffé\nStekt strömmingsflundra serveras med potatismos, rårörda lingon, citron och salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T034855Z
-UID:2025-12-17-1712204148121408942@matilda2ics
+DTSTAMP:20251216T034047Z
+UID:2025-12-17-378515411445455506@matilda2ics
 DTSTART;VALUE=DATE:20251217
 DTEND;VALUE=DATE:20251218
 SUMMARY:Matsedel
 DESCRIPTION:Vår gröna julinspirerade lunch\nJulinspirerad lunch
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T034855Z
-UID:2025-12-18-3386222266075599861@matilda2ics
+DTSTAMP:20251216T034047Z
+UID:2025-12-18-982278645783759438@matilda2ics
 DTSTART;VALUE=DATE:20251218
 DTEND;VALUE=DATE:20251219
 SUMMARY:Matsedel
 DESCRIPTION:Grönkålspaj serveras med kall örtsås och salladsbuffé\nKokt julkorv serveras med kokt potatis och senapssås, brysselkål samt salladbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T034855Z
-UID:2025-12-19-2559036007452321952@matilda2ics
+DTSTAMP:20251216T034047Z
+UID:2025-12-19-2782030139669269193@matilda2ics
 DTSTART;VALUE=DATE:20251219
 DTEND;VALUE=DATE:20251220
 SUMMARY:Matsedel
