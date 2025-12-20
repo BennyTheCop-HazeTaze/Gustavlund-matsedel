@@ -5,11 +5,19 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20251219T033934Z
-UID:2025-12-19-7825766080531192979@matilda2ics
-DTSTART;VALUE=DATE:20251219
-DTEND;VALUE=DATE:20251220
+DTSTAMP:20251220T033105Z
+UID:2025-12-22-8627095044074982617@matilda2ics
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20251223
 SUMMARY:Matsedel
-DESCRIPTION:Risgrynsgröt serveras med bröd, ost och frukt samt salladsbuffé\nKöttfärssoppa med vitkål "Hedvigsoppa" serveras med bröd, ost och frukt samt salladsbuffé
+DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris och salladsbuffé\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno" serveras med salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T033105Z
+UID:2025-12-23-5319914645424585728@matilda2ics
+DTSTART;VALUE=DATE:20251223
+DTEND;VALUE=DATE:20251224
+SUMMARY:Matsedel
+DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis och tomatsås samt salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé
 END:VEVENT
 END:VCALENDAR
