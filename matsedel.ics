@@ -4,12 +4,4 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
-BEGIN:VEVENT
-DTSTAMP:20251223T034255Z
-UID:2025-12-23-4039381972662340760@matilda2ics
-DTSTART;VALUE=DATE:20251223
-DTEND;VALUE=DATE:20251224
-SUMMARY:Matsedel
-DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis och tomatsås samt salladsbuffé\nFiskgratäng med tomat och örter serveras med kokt potatis och salladsbuffé
-END:VEVENT
 END:VCALENDAR
