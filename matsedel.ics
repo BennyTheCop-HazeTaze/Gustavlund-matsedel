@@ -5,11 +5,35 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260102T034709Z
-UID:2026-01-02-6406937422802432719@matilda2ics
-DTSTART;VALUE=DATE:20260102
-DTEND;VALUE=DATE:20260103
+DTSTAMP:20260103T033742Z
+UID:2026-01-05-2626499656262683929@matilda2ics
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
 SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa samt salladsbuffé\nPannbiff med stekt lök serveras med kokt potatis och brunsås, broccoli samt salladsbuffé
+DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T033742Z
+UID:2026-01-07-5343959291163878510@matilda2ics
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon samt salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T033742Z
+UID:2026-01-08-1665136476410533955@matilda2ics
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:Matsedel
+DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T033742Z
+UID:2026-01-09-6358699113540974276@matilda2ics
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:Matsedel
+DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nFläskköttgryta med dragonsmak serveras med havreris och salladsbuffe
 END:VEVENT
 END:VCALENDAR
