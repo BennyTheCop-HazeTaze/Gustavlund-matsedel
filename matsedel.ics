@@ -5,32 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260103T033742Z
-UID:2026-01-05-2626499656262683929@matilda2ics
+DTSTAMP:20260104T035718Z
+UID:2026-01-05-4835444119735647306@matilda2ics
 DTSTART;VALUE=DATE:20260105
 DTEND;VALUE=DATE:20260106
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser serveras med salladsbuffé\nKöttfärslimpa serveras med kokt potatis och brunsås, ärtor, rårörda lingon samt salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260103T033742Z
-UID:2026-01-07-5343959291163878510@matilda2ics
+DTSTAMP:20260104T035718Z
+UID:2026-01-07-5737922534933190053@matilda2ics
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon samt salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260103T033742Z
-UID:2026-01-08-1665136476410533955@matilda2ics
+DTSTAMP:20260104T035718Z
+UID:2026-01-08-6451451737451730312@matilda2ics
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
 SUMMARY:Matsedel
 DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260103T033742Z
-UID:2026-01-09-6358699113540974276@matilda2ics
+DTSTAMP:20260104T035718Z
+UID:2026-01-09-4473620231691661731@matilda2ics
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Matsedel
