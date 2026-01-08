@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260107T034548Z
-UID:2026-01-07-4127979637083534413@matilda2ics
-DTSTART;VALUE=DATE:20260107
-DTEND;VALUE=DATE:20260108
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon samt salladsbuffé\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor samt salladsbuffé
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260107T034548Z
-UID:2026-01-08-3693873739121201921@matilda2ics
+DTSTAMP:20260108T034607Z
+UID:2026-01-08-199238363758207835@matilda2ics
 DTSTART;VALUE=DATE:20260108
 DTEND;VALUE=DATE:20260109
 SUMMARY:Matsedel
 DESCRIPTION:Pestosås med pannoumi serveras med pasta och salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron samt salladsbuffé
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260107T034548Z
-UID:2026-01-09-197601515466326188@matilda2ics
+DTSTAMP:20260108T034607Z
+UID:2026-01-09-1078810490008967246@matilda2ics
 DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 SUMMARY:Matsedel
