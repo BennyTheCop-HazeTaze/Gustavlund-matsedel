@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260109T034615Z
-UID:2026-01-09-851032256840258456@matilda2ics
-DTSTART;VALUE=DATE:20260109
-DTEND;VALUE=DATE:20260110
+DTSTAMP:20260110T033935Z
+UID:2026-01-12-5755614269431399036@matilda2ics
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
 SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås samt salladsbuffé\nFläskköttgryta med dragonsmak serveras med havreris och salladsbuffe
+DESCRIPTION:Italiensk tomatsås med linser serveras med pasta och salladsbuffé\nSprödbakad fisk serveras med kokt potatis och kall dillsås, citron samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260110T033935Z
+UID:2026-01-13-7029331276335229780@matilda2ics
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:Matsedel
+DESCRIPTION:Grönsaksbiff Caribbien serveras med klyftpotatis och het tomatsås samt salladsbuffé\nKokt korv serveras med potatismos, kokta morötter och salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260110T033935Z
+UID:2026-01-14-564676496844831770@matilda2ics
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Matsedel
+DESCRIPTION:Barns och elevers val
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260110T033935Z
+UID:2026-01-15-1843909498008737294@matilda2ics
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Matsedel
+DESCRIPTION:Pumpasoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt samt salladsbuffé
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260110T033935Z
+UID:2026-01-16-2228825983558380284@matilda2ics
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Matsedel
+DESCRIPTION:Kebabish i libabröd serveras med dressing och salladsbuffé\nHälften/ hälften köttbullar serveras med kokt potatis och brunsås, pressgurka, rårörda lingon samt salladsbuffé
 END:VEVENT
 END:VCALENDAR
