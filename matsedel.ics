@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260130T041652Z
-UID:2026-01-30-8463199944432508689@matilda2ics
-DTSTART;VALUE=DATE:20260130
-DTEND;VALUE=DATE:20260131
+DTSTAMP:20260131T041211Z
+UID:2026-02-02-2153969446839753078@matilda2ics
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
 SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och kall örtsås\nSprödbakad fisk serveras med potatismos, kall örtsås och citron\nStekt strömmingsflundra serveras med potatismos, rårörda lingon och citron
+DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno"
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260131T041211Z
+UID:2026-02-03-2841891019710781893@matilda2ics
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Matsedel
+DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt\nMinestronesoppa serveras med bröd, ost och frukt
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260131T041211Z
+UID:2026-02-04-6493022136625419126@matilda2ics
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Matsedel
+DESCRIPTION:Skolmatsval Ärtfärsburgare serveras med bröd, klyftpotatis, dressing och picklad rödlök\nSkolmatsval Kycklingfärsburgare serveras med bröd, klyftpotatis och dressing
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260131T041211Z
+UID:2026-02-05-8429404444457071568@matilda2ics
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med spaghetti och tomatsås\nFiskgratäng med dill serveras med potatismos och ärtor
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260131T041211Z
+UID:2026-02-06-7828632137248219208@matilda2ics
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Matsedel
+DESCRIPTION:Tacopaj på ärtfärs serveras med tomatsallad, kall vitlökssås\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon
 END:VEVENT
 END:VCALENDAR
