@@ -5,19 +5,11 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260205T042201Z
-UID:2026-02-05-6733047630593440851@matilda2ics
-DTSTART;VALUE=DATE:20260205
-DTEND;VALUE=DATE:20260206
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbollar serveras med spaghetti och tomatsås\nFiskgratäng med dill serveras med potatismos och ärtor
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260205T042201Z
-UID:2026-02-06-5410170655111801660@matilda2ics
+DTSTAMP:20260206T042225Z
+UID:2026-02-06-8716714590771327592@matilda2ics
 DTSTART;VALUE=DATE:20260206
 DTEND;VALUE=DATE:20260207
 SUMMARY:Matsedel
-DESCRIPTION:Tacopaj på ärtfärs serveras med tomatsallad, kall vitlökssås\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon
+DESCRIPTION:Tacopaj på ärtfärs serveras med tomatsallad, kall vitlökssås\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
