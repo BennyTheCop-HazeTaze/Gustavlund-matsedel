@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260212T043126Z
-UID:2026-02-12-8623766043326865583@matilda2ics
-DTSTART;VALUE=DATE:20260212
-DTEND;VALUE=DATE:20260213
-SUMMARY:Matsedel
-DESCRIPTION:Krämig broccolisoppa serveras med bröd, ost och frukt\nNikkaluoktasoppa på vildsvin serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260212T043126Z
-UID:2026-02-13-9188215642420776311@matilda2ics
+DTSTAMP:20260213T042813Z
+UID:2026-02-13-7966546826064454029@matilda2ics
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260214
 SUMMARY:Matsedel
