@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260215T042920Z
-UID:2026-02-16-6881782130157967282@matilda2ics
+DTSTAMP:20260216T043320Z
+UID:2026-02-16-2310318894879627364@matilda2ics
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med potatismos och paprikasås\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T042920Z
-UID:2026-02-17-3280892642085278871@matilda2ics
+DTSTAMP:20260216T043320Z
+UID:2026-02-17-6007015046189625783@matilda2ics
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Matsedel
 DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nVinnare Klimatkocken 2025 Kyckling i tortillabröd serveras med kall vitostsås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T042920Z
-UID:2026-02-18-7837735175579018618@matilda2ics
+DTSTAMP:20260216T043320Z
+UID:2026-02-18-4736775021221550879@matilda2ics
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ramensoppa med nudlar, tofu, ägg och grönsaker serveras med bröd, ost och frukt\nSkolmatsval Ramensoppa med nudlar, kyckling, ägg och grönsaker\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T042920Z
-UID:2026-02-19-7721053780223845750@matilda2ics
+DTSTAMP:20260216T043320Z
+UID:2026-02-19-2366600482034831490@matilda2ics
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Matsedel
 DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor\nFiskgratäng med tomat och örter serveras med kokt potatis\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T042920Z
-UID:2026-02-20-5360214275031244527@matilda2ics
+DTSTAMP:20260216T043320Z
+UID:2026-02-20-3677367269742797840@matilda2ics
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Matsedel
