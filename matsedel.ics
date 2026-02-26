@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260225T042706Z
-UID:2026-02-25-3673579728958260573@matilda2ics
-DTSTART;VALUE=DATE:20260225
-DTEND;VALUE=DATE:20260226
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260225T042706Z
-UID:2026-02-26-5451197589839768389@matilda2ics
+DTSTAMP:20260226T042408Z
+UID:2026-02-26-4595551275595520035@matilda2ics
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 SUMMARY:Matsedel
 DESCRIPTION:Krämig tomatsoppa med örtolja och krutonger serveras med bröd, ost och frukt\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T042706Z
-UID:2026-02-27-8697525486255022529@matilda2ics
+DTSTAMP:20260226T042408Z
+UID:2026-02-27-7271485358409851298@matilda2ics
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Matsedel
