@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260226T042408Z
-UID:2026-02-26-4595551275595520035@matilda2ics
-DTSTART;VALUE=DATE:20260226
-DTEND;VALUE=DATE:20260227
-SUMMARY:Matsedel
-DESCRIPTION:Krämig tomatsoppa med örtolja och krutonger serveras med bröd, ost och frukt\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260226T042408Z
-UID:2026-02-27-7271485358409851298@matilda2ics
+DTSTAMP:20260227T042054Z
+UID:2026-02-27-7004311757252637164@matilda2ics
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:Matsedel
