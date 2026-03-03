@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260302T042204Z
-UID:2026-03-02-5720823350565852470@matilda2ics
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260303
-SUMMARY:Matsedel
-DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon\nOstsås med rökt hönskött serveras med pasta\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260302T042204Z
-UID:2026-03-03-7907415616043271610@matilda2ics
+DTSTAMP:20260303T042201Z
+UID:2026-03-03-2905918964000699266@matilda2ics
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Matsedel
 DESCRIPTION:Kebabish i libabröd serveras med dressing\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260302T042204Z
-UID:2026-03-04-4906831462302585718@matilda2ics
+DTSTAMP:20260303T042201Z
+UID:2026-03-04-4644149098908724485@matilda2ics
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Matsedel
 DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad, filmjölk\nEgenpanerad fisk serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260302T042204Z
-UID:2026-03-05-6760137808437577777@matilda2ics
+DTSTAMP:20260303T042201Z
+UID:2026-03-05-7663825747383439570@matilda2ics
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260302T042204Z
-UID:2026-03-06-2456025385149685646@matilda2ics
+DTSTAMP:20260303T042201Z
+UID:2026-03-06-8272051528348424167@matilda2ics
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:Matsedel
