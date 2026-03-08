@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260307T040650Z
-UID:2026-03-09-1791810943622271453@matilda2ics
+DTSTAMP:20260308T041923Z
+UID:2026-03-09-1070004988284853365@matilda2ics
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser\nKöttbullar serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T040650Z
-UID:2026-03-10-8984283259921851298@matilda2ics
+DTSTAMP:20260308T041923Z
+UID:2026-03-10-1662584593511624928@matilda2ics
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd, kall vitlökssås och tomatsalsa\nUgnsgratinerad kycklingkorv serveras med potatismos serveras med ärtor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T040650Z
-UID:2026-03-11-8842429706637894939@matilda2ics
+DTSTAMP:20260308T041923Z
+UID:2026-03-11-638007039705065461@matilda2ics
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T040650Z
-UID:2026-03-12-4614540252656574674@matilda2ics
+DTSTAMP:20260308T041923Z
+UID:2026-03-12-6401512998592302229@matilda2ics
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli och rårörda lingon\nKroppkakor/kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon\nBlodpudding serveras med rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T040650Z
-UID:2026-03-13-621237632476811512@matilda2ics
+DTSTAMP:20260308T041923Z
+UID:2026-03-13-875085295999280460@matilda2ics
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Matsedel
