@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260309T042526Z
-UID:2026-03-09-6269619283245559694@matilda2ics
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-SUMMARY:Matsedel
-DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser\nKöttbullar serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260309T042526Z
-UID:2026-03-10-8688142748703294031@matilda2ics
+DTSTAMP:20260310T041731Z
+UID:2026-03-10-2094845410279704341@matilda2ics
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd, kall vitlökssås och tomatsalsa\nUgnsgratinerad kycklingkorv serveras med potatismos serveras med ärtor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260309T042526Z
-UID:2026-03-11-7420146224733084507@matilda2ics
+DTSTAMP:20260310T041731Z
+UID:2026-03-11-1697644515436399407@matilda2ics
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260312
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260309T042526Z
-UID:2026-03-12-4034028701883385158@matilda2ics
+DTSTAMP:20260310T041731Z
+UID:2026-03-12-1370013500360313379@matilda2ics
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260313
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli och rårörda lingon\nKroppkakor/kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon\nBlodpudding serveras med rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260309T042526Z
-UID:2026-03-13-587171148505870770@matilda2ics
+DTSTAMP:20260310T041731Z
+UID:2026-03-13-3452995158857013441@matilda2ics
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260314
 SUMMARY:Matsedel
