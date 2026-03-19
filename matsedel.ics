@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260318T043103Z
-UID:2026-03-18-3346043932955934972@matilda2ics
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-SUMMARY:Matsedel
-DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nVildsvinsbiffar serveras med brunsås, kokt potatis och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260318T043103Z
-UID:2026-03-19-7186533127731895626@matilda2ics
+DTSTAMP:20260319T042953Z
+UID:2026-03-19-8397948951610494854@matilda2ics
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbolognese serveras med pasta\nFiskgratäng med citronsås, kokt potatis och ärtor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260318T043103Z
-UID:2026-03-20-919515738820427699@matilda2ics
+DTSTAMP:20260319T042953Z
+UID:2026-03-20-2225021970029199655@matilda2ics
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Matsedel
