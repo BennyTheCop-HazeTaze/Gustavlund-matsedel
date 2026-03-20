@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260319T042953Z
-UID:2026-03-19-8397948951610494854@matilda2ics
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärsbolognese serveras med pasta\nFiskgratäng med citronsås, kokt potatis och ärtor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260319T042953Z
-UID:2026-03-20-2225021970029199655@matilda2ics
+DTSTAMP:20260320T042136Z
+UID:2026-03-20-3642031059763885160@matilda2ics
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:Matsedel
