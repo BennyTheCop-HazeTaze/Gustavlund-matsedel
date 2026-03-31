@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260330T050617Z
-UID:2026-03-30-5278418223801850267@matilda2ics
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med potatismos och paprikasås\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260330T050617Z
-UID:2026-03-31-8005538924264307382@matilda2ics
+DTSTAMP:20260331T044253Z
+UID:2026-03-31-6789480319197779437@matilda2ics
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260401
 SUMMARY:Matsedel
 DESCRIPTION:Påsklunch\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T050617Z
-UID:2026-04-01-4180177761983171233@matilda2ics
+DTSTAMP:20260331T044253Z
+UID:2026-04-01-2032470260220297921@matilda2ics
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ramensoppa med nudlar, tofu, ägg och grönsaker serveras med bröd, ost och frukt\nSkolmatsval Ramensoppa med nudlar, kyckling, ägg och grönsaker serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T050617Z
-UID:2026-04-02-8914329414527689606@matilda2ics
+DTSTAMP:20260331T044253Z
+UID:2026-04-02-214223914074663101@matilda2ics
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Matsedel
