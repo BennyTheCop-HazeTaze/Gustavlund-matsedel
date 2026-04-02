@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260401T050631Z
-UID:2026-04-01-4240214403187543944@matilda2ics
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260402
-SUMMARY:Matsedel
-DESCRIPTION:Skolmatsval Ramensoppa med nudlar, tofu, ägg och grönsaker serveras med bröd, ost och frukt\nSkolmatsval Ramensoppa med nudlar, kyckling, ägg och grönsaker serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260401T050631Z
-UID:2026-04-02-8338788748321625745@matilda2ics
+DTSTAMP:20260402T043702Z
+UID:2026-04-02-6774432330044274114@matilda2ics
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Matsedel
