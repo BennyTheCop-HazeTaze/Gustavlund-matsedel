@@ -5,32 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260405T044430Z
-UID:2026-04-07-3549437951119367496@matilda2ics
+DTSTAMP:20260406T045210Z
+UID:2026-04-07-4835330879812079743@matilda2ics
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
 SUMMARY:Matsedel
 DESCRIPTION:Italiensk tomatsås med linser serveras med pasta\nFisktacos serveras med tortillabröd, vitlökssås och ärtguacamole\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T044430Z
-UID:2026-04-08-4179371474146435817@matilda2ics
+DTSTAMP:20260406T045210Z
+UID:2026-04-08-3692232658013610103@matilda2ics
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T044430Z
-UID:2026-04-09-6283068760589735094@matilda2ics
+DTSTAMP:20260406T045210Z
+UID:2026-04-09-7849141102267709961@matilda2ics
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
 SUMMARY:Matsedel
 DESCRIPTION:Krämig tomatsoppa med örtolja och krutonger serveras med bröd, ost och frukt\nÄrtsoppa med fläsk serveras med senap, bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T044430Z
-UID:2026-04-10-7857243667895048289@matilda2ics
+DTSTAMP:20260406T045210Z
+UID:2026-04-10-6990679242705369012@matilda2ics
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
 SUMMARY:Matsedel
