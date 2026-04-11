@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260410T050709Z
-UID:2026-04-10-911151253993214845@matilda2ics
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
+DTSTAMP:20260411T042806Z
+UID:2026-04-13-3917530248763701695@matilda2ics
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
 SUMMARY:Matsedel
-DESCRIPTION:Tacopaj på ärtfärs serveras med tomatsallad, kall vitlökssås\nHälften/ hälften köttbullar serveras med kokt potatis, brunsås, pressgurka och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon\nOstsås med rökt hönskött serveras med pasta\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T042806Z
+UID:2026-04-14-8487028665814585339@matilda2ics
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Matsedel
+DESCRIPTION:Kebabish i libabröd serveras med dressing\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T042806Z
+UID:2026-04-15-944451482909423408@matilda2ics
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Matsedel
+DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad samt filmjölk\nEgenpanerad fisk serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T042806Z
+UID:2026-04-16-3103150595895435000@matilda2ics
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Matsedel
+DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T042806Z
+UID:2026-04-17-9011897778478845091@matilda2ics
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Matsedel
+DESCRIPTION:Nudelwok med ärt och bondbönstrimlor serveras med kall sweet chilisås\nKorv Stroganoff med kycklingkorv serveras med havreris och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
