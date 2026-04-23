@@ -5,32 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260421T050846Z
-UID:2026-04-21-5823871490287991855@matilda2ics
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:Matsedel
-DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd, kall vitlökssås och tomatsalsa\nStekt kycklingkorv serveras med stuvade makaroner och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260421T050846Z
-UID:2026-04-22-2545709007502799711@matilda2ics
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:Matsedel
-DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260421T050846Z
-UID:2026-04-23-3796360084631355199@matilda2ics
+DTSTAMP:20260423T051050Z
+UID:2026-04-23-8898574710554936126@matilda2ics
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli och rårörda lingon\nKroppkakor/kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon\nBlodpudding serveras med rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T050846Z
-UID:2026-04-24-874083305821459881@matilda2ics
+DTSTAMP:20260423T051050Z
+UID:2026-04-24-3335998928899490458@matilda2ics
 DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 SUMMARY:Matsedel
