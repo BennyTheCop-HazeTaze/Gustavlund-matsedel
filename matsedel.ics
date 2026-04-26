@@ -5,32 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260425T044346Z
-UID:2026-04-27-1149218942478674353@matilda2ics
+DTSTAMP:20260426T051942Z
+UID:2026-04-27-8383807681165082249@matilda2ics
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
 SUMMARY:Matsedel
 DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno"\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260425T044346Z
-UID:2026-04-28-1204329684712711441@matilda2ics
+DTSTAMP:20260426T051942Z
+UID:2026-04-28-8387108604576689419@matilda2ics
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och purjolökssoppa serveras med bröd, ost och frukt\nMinestronesoppa serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260425T044346Z
-UID:2026-04-29-4283639464902370933@matilda2ics
+DTSTAMP:20260426T051942Z
+UID:2026-04-29-1571894012458531465@matilda2ics
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nVildsvinsbiffar serveras med brunsås, kokt potatis och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260425T044346Z
-UID:2026-04-30-8308110715157834061@matilda2ics
+DTSTAMP:20260426T051942Z
+UID:2026-04-30-8551884783062629729@matilda2ics
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Matsedel
