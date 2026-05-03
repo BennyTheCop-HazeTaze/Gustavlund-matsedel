@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260502T051846Z
-UID:2026-05-04-8743021139793868376@matilda2ics
+DTSTAMP:20260503T053800Z
+UID:2026-05-04-4567197653335697466@matilda2ics
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärslimpa serveras med kokt potatis, havregräddsås, morötter och rårörda lingon\nSpaghetti Bolognese på nötfärs\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T051846Z
-UID:2026-05-05-7221998967932744520@matilda2ics
+DTSTAMP:20260503T053800Z
+UID:2026-05-05-6556144349289293563@matilda2ics
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260506
 SUMMARY:Matsedel
 DESCRIPTION:Pestosås med pannoumi serveras med pasta\nStekt kycklingkorv serveras med stuvade makaroner och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T051846Z
-UID:2026-05-06-3163059377848351492@matilda2ics
+DTSTAMP:20260503T053800Z
+UID:2026-05-06-8846648645930118455@matilda2ics
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Matsedel
 DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis och tomatsås\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T051846Z
-UID:2026-05-07-410341593190113541@matilda2ics
+DTSTAMP:20260503T053800Z
+UID:2026-05-07-7447225353983783118@matilda2ics
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Matsedel
 DESCRIPTION:Krämig broccolisoppa serveras med bröd, ost och frukt\nNikkaluoktasoppa på vildsvin serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260502T051846Z
-UID:2026-05-08-1852702569915127266@matilda2ics
+DTSTAMP:20260503T053800Z
+UID:2026-05-08-3466825461830149831@matilda2ics
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Matsedel
