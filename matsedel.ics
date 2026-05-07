@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260506T053636Z
-UID:2026-05-06-5045623575121349649@matilda2ics
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-SUMMARY:Matsedel
-DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis och tomatsås\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260506T053636Z
-UID:2026-05-07-7306583378257277115@matilda2ics
+DTSTAMP:20260507T053927Z
+UID:2026-05-07-611001696540461278@matilda2ics
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:Matsedel
 DESCRIPTION:Krämig broccolisoppa serveras med bröd, ost och frukt\nNikkaluoktasoppa på vildsvin serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T053636Z
-UID:2026-05-08-3488898721118489712@matilda2ics
+DTSTAMP:20260507T053927Z
+UID:2026-05-08-469737995045919570@matilda2ics
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Matsedel
