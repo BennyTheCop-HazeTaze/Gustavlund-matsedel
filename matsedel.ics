@@ -5,11 +5,35 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260508T051114Z
-UID:2026-05-08-7859293583107112021@matilda2ics
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
+DTSTAMP:20260509T052906Z
+UID:2026-05-11-595895095552337671@matilda2ics
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
 SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis och brunsås, broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Örtbiffar serveras med potatismos och paprikasås\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T052906Z
+UID:2026-05-12-3307366928454203133@matilda2ics
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Matsedel
+DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nVinnare Klimatkocken 2025 Kyckling i tortillabröd serveras med kall vitostsås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T052906Z
+UID:2026-05-13-3871986836967742944@matilda2ics
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Matsedel
+DESCRIPTION:Skolmatsval Ramensoppa med nudlar, tofu, ägg och grönsaker serveras med bröd, ost och frukt\nSkolmatsval Ramensoppa med nudlar, kyckling, ägg och grönsaker serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260509T052906Z
+UID:2026-05-15-8947474249017291393@matilda2ics
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Matsedel
+DESCRIPTION:Gratinerad Burrito serveras med kall vitlökssås\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
