@@ -5,32 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260510T054445Z
-UID:2026-05-11-492720858757142691@matilda2ics
+DTSTAMP:20260511T060657Z
+UID:2026-05-11-9059414063582430693@matilda2ics
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med potatismos och paprikasås\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260510T054445Z
-UID:2026-05-12-8389228300636293157@matilda2ics
+DTSTAMP:20260511T060657Z
+UID:2026-05-12-4697595848299573146@matilda2ics
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
 SUMMARY:Matsedel
 DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nVinnare Klimatkocken 2025 Kyckling i tortillabröd serveras med kall vitostsås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260510T054445Z
-UID:2026-05-13-4767247742258973753@matilda2ics
+DTSTAMP:20260511T060657Z
+UID:2026-05-13-4905350238446897468@matilda2ics
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260514
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ramensoppa med nudlar, tofu, ägg och grönsaker serveras med bröd, ost och frukt\nSkolmatsval Ramensoppa med nudlar, kyckling, ägg och grönsaker serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260510T054445Z
-UID:2026-05-15-3876259843774133581@matilda2ics
+DTSTAMP:20260511T060657Z
+UID:2026-05-15-392943995171659860@matilda2ics
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Matsedel
