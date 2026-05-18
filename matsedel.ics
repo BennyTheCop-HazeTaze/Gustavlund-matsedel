@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260517T055538Z
-UID:2026-05-18-3605314467639280156@matilda2ics
+DTSTAMP:20260518T063209Z
+UID:2026-05-18-928960878123703672@matilda2ics
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Matsedel
 DESCRIPTION:Italiensk tomatsås med linser serveras med pasta\nFisktacos serveras med tortillabröd, vitlökssås, picklad rödlök och ärtguacamole\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260517T055538Z
-UID:2026-05-19-8270648648384538573@matilda2ics
+DTSTAMP:20260518T063209Z
+UID:2026-05-19-4359832441211737275@matilda2ics
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260520
 SUMMARY:Matsedel
 DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260517T055538Z
-UID:2026-05-20-8558848235931723197@matilda2ics
+DTSTAMP:20260518T063209Z
+UID:2026-05-20-8941686677359785938@matilda2ics
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Matsedel
 DESCRIPTION:Salladsbar, plocka ihop din egen sallad\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260517T055538Z
-UID:2026-05-21-255482537470007040@matilda2ics
+DTSTAMP:20260518T063209Z
+UID:2026-05-21-6436288865229673218@matilda2ics
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260517T055538Z
-UID:2026-05-22-9044503031724654459@matilda2ics
+DTSTAMP:20260518T063209Z
+UID:2026-05-22-4316518572658251262@matilda2ics
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Matsedel
