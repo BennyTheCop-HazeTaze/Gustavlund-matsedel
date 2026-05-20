@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260519T061843Z
-UID:2026-05-19-5836253214930408601@matilda2ics
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-SUMMARY:Matsedel
-DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260519T061843Z
-UID:2026-05-20-8375219460730744509@matilda2ics
+DTSTAMP:20260520T061802Z
+UID:2026-05-20-9153523813140041437@matilda2ics
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
 SUMMARY:Matsedel
 DESCRIPTION:Salladsbar, plocka ihop din egen sallad\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260519T061843Z
-UID:2026-05-21-7760562581594353808@matilda2ics
+DTSTAMP:20260520T061802Z
+UID:2026-05-21-2799087977697519865@matilda2ics
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260519T061843Z
-UID:2026-05-22-2034966114930219081@matilda2ics
+DTSTAMP:20260520T061802Z
+UID:2026-05-22-7845122446699154166@matilda2ics
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Matsedel
