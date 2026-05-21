@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260520T061802Z
-UID:2026-05-20-9153523813140041437@matilda2ics
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-SUMMARY:Matsedel
-DESCRIPTION:Salladsbar, plocka ihop din egen sallad\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T061802Z
-UID:2026-05-21-2799087977697519865@matilda2ics
+DTSTAMP:20260521T061844Z
+UID:2026-05-21-8019500943930992147@matilda2ics
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T061802Z
-UID:2026-05-22-7845122446699154166@matilda2ics
+DTSTAMP:20260521T061844Z
+UID:2026-05-22-1032166490241624651@matilda2ics
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Matsedel
