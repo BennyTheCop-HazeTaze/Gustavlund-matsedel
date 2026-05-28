@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260527T063857Z
-UID:2026-05-27-2510627302294821916@matilda2ics
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260528
-SUMMARY:Matsedel
-DESCRIPTION:Fetaostfylld filodegspaj "Burek" serveras med tomat- och rödlökssallad samt filmjölk\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260527T063857Z
-UID:2026-05-28-2556395237318660314@matilda2ics
+DTSTAMP:20260528T062049Z
+UID:2026-05-28-2088302541083608650@matilda2ics
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260527T063857Z
-UID:2026-05-29-3547597572705987613@matilda2ics
+DTSTAMP:20260528T062049Z
+UID:2026-05-29-688856643621314573@matilda2ics
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Matsedel
