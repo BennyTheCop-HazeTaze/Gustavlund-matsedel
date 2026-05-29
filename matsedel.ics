@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260528T062049Z
-UID:2026-05-28-2088302541083608650@matilda2ics
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-SUMMARY:Matsedel
-DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260528T062049Z
-UID:2026-05-29-688856643621314573@matilda2ics
+DTSTAMP:20260529T063136Z
+UID:2026-05-29-5741118177254312957@matilda2ics
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
 SUMMARY:Matsedel
