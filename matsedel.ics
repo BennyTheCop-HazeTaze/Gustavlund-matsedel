@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260531T063353Z
-UID:2026-06-01-404569907717379072@matilda2ics
+DTSTAMP:20260601T072058Z
+UID:2026-06-01-8409947759965331479@matilda2ics
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser\nKöttbullar serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260531T063353Z
-UID:2026-06-02-8102940164928983362@matilda2ics
+DTSTAMP:20260601T072058Z
+UID:2026-06-02-1017353341246370255@matilda2ics
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Matsedel
 DESCRIPTION:Tacos med ärtfärs serveras med tortillabröd, kall vitlökssås och tomatsalsa\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260531T063353Z
-UID:2026-06-03-2240325398531274822@matilda2ics
+DTSTAMP:20260601T072058Z
+UID:2026-06-03-3856152296294800816@matilda2ics
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Matsedel
 DESCRIPTION:Gulaschsoppa på linser serveras med crème fraiche, bröd, ost och frukt\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260531T063353Z
-UID:2026-06-04-4000898169713943727@matilda2ics
+DTSTAMP:20260601T072058Z
+UID:2026-06-04-8717427154650035557@matilda2ics
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Matsedel
 DESCRIPTION:Ugnspannkaka serveras med broccoli och rårörda lingon\nKroppkakor/kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon\nBlodpudding serveras med rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260531T063353Z
-UID:2026-06-05-2693040651469632007@matilda2ics
+DTSTAMP:20260601T072058Z
+UID:2026-06-05-351241653410215884@matilda2ics
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:Matsedel
