@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260605T064151Z
-UID:2026-06-05-7782079995282396776@matilda2ics
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
+DTSTAMP:20260606T060113Z
+UID:2026-06-08-5424792447291840172@matilda2ics
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
 SUMMARY:Matsedel
-DESCRIPTION:Örtbiffar serveras med rostade rotfrukter och paprikasås\nSprödbakad fisk serveras med potatismos, kall örtsås och citron\nStekt strömmingsflundra serveras med potatismos, rårörda lingon och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno"\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T060113Z
+UID:2026-06-09-1875788342381433347@matilda2ics
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Matsedel
+DESCRIPTION:Pastasallad - välj dina tillbehör\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T060113Z
+UID:2026-06-10-7763344734682918903@matilda2ics
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:Matsedel
+DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nVildsvinsbiffar serveras med klyftpotatis och tzatziki\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T060113Z
+UID:2026-06-11-9176139103702335170@matilda2ics
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Matsedel
+DESCRIPTION:Skolmatsval Grönsaksnuggets serveras med pommes frites och kall sweet chilisås\nSkolmatsval Panerad kyckling serveras med pommes frites och kall sweet chilisås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T060113Z
+UID:2026-06-12-3317176573444570102@matilda2ics
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Matsedel
+DESCRIPTION:Kökets val\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
