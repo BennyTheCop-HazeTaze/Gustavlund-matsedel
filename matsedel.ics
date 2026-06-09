@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260608T070120Z
-UID:2026-06-08-6744822223294763815@matilda2ics
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-SUMMARY:Matsedel
-DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nLasagne tillagad med kalkonfärs och grönsaker "Lasagne al forno"\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260608T070120Z
-UID:2026-06-09-8929211179850829607@matilda2ics
+DTSTAMP:20260609T061745Z
+UID:2026-06-09-6326940734577755204@matilda2ics
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:Matsedel
 DESCRIPTION:Pastasallad - välj dina tillbehör\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260608T070120Z
-UID:2026-06-10-4623096359084263760@matilda2ics
+DTSTAMP:20260609T061745Z
+UID:2026-06-10-321999228841536310@matilda2ics
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260611
 SUMMARY:Matsedel
 DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nVildsvinsbiffar serveras med klyftpotatis och tzatziki\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260608T070120Z
-UID:2026-06-11-8789004536129661179@matilda2ics
+DTSTAMP:20260609T061745Z
+UID:2026-06-11-5059468072773271126@matilda2ics
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Grönsaksnuggets serveras med pommes frites och kall sweet chilisås\nSkolmatsval Panerad kyckling serveras med pommes frites och kall sweet chilisås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260608T070120Z
-UID:2026-06-12-8152266857050747983@matilda2ics
+DTSTAMP:20260609T061745Z
+UID:2026-06-12-978186840239820263@matilda2ics
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Matsedel
