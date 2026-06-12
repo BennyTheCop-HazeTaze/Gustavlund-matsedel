@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260611T070307Z
-UID:2026-06-11-3931539988218610233@matilda2ics
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Matsedel
-DESCRIPTION:Skolmatsval Grönsaksnuggets serveras med pommes frites och kall sweet chilisås\nSkolmatsval Panerad kyckling serveras med pommes frites och kall sweet chilisås\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260611T070307Z
-UID:2026-06-12-6658635213719402541@matilda2ics
+DTSTAMP:20260612T065414Z
+UID:2026-06-12-3342882305534535344@matilda2ics
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:Matsedel
