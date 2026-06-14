@@ -5,32 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260613T063115Z
-UID:2026-06-15-98192907174103715@matilda2ics
+DTSTAMP:20260614T065553Z
+UID:2026-06-15-5870750388683129158@matilda2ics
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärslimpa serveras med kokt potatis, havregräddsås, morötter och rårörda lingon\nSpaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260613T063115Z
-UID:2026-06-16-5286161893055197297@matilda2ics
+DTSTAMP:20260614T065553Z
+UID:2026-06-16-1936722527758368036@matilda2ics
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:Matsedel
 DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260613T063115Z
-UID:2026-06-17-926538727023838156@matilda2ics
+DTSTAMP:20260614T065553Z
+UID:2026-06-17-423217400772400112@matilda2ics
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med färskpotatis och kall örtsås\nSprödbakad fisk serveras med färskpotatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260613T063115Z
-UID:2026-06-18-7296952560774783412@matilda2ics
+DTSTAMP:20260614T065553Z
+UID:2026-06-18-6905523810111657895@matilda2ics
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Matsedel
