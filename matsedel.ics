@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260616T074035Z
-UID:2026-06-16-551128584770972383@matilda2ics
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:Matsedel
-DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260616T074035Z
-UID:2026-06-17-1920038978698689501@matilda2ics
+DTSTAMP:20260617T072525Z
+UID:2026-06-17-2319709231983391041@matilda2ics
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med färskpotatis och kall örtsås\nSprödbakad fisk serveras med färskpotatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260616T074035Z
-UID:2026-06-18-2457467852584031662@matilda2ics
+DTSTAMP:20260617T072525Z
+UID:2026-06-18-6649519120219044638@matilda2ics
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
 SUMMARY:Matsedel
