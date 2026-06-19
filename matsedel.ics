@@ -4,12 +4,4 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
-BEGIN:VEVENT
-DTSTAMP:20260618T070355Z
-UID:2026-06-18-8629381630796590732@matilda2ics
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis, brunsås och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
 END:VCALENDAR
