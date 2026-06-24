@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260623T061805Z
-UID:2026-06-23-8369131687643170047@matilda2ics
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-SUMMARY:Matsedel
-DESCRIPTION:Stekt vegansk korv serveras med stuvade makaroner och broccoli\nStekt falukorv serveras med stuvade makaroner och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260623T061805Z
-UID:2026-06-24-2853893424866445333@matilda2ics
+DTSTAMP:20260624T061446Z
+UID:2026-06-24-1957595042606636382@matilda2ics
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne med örter, keso och tomat\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260623T061805Z
-UID:2026-06-25-8630429395855610844@matilda2ics
+DTSTAMP:20260624T061446Z
+UID:2026-06-25-6157299075887145208@matilda2ics
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Matsedel
 DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260623T061805Z
-UID:2026-06-26-2817754449108753210@matilda2ics
+DTSTAMP:20260624T061446Z
+UID:2026-06-26-2111992500266705702@matilda2ics
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Matsedel
