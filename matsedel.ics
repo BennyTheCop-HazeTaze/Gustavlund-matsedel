@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260625T061806Z
-UID:2026-06-25-2012129245535354394@matilda2ics
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-SUMMARY:Matsedel
-DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260625T061806Z
-UID:2026-06-26-3315677680097315839@matilda2ics
+DTSTAMP:20260626T061915Z
+UID:2026-06-26-8568908134029223721@matilda2ics
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Matsedel
