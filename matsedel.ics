@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260702T060833Z
-UID:2026-07-02-6949707417067640756@matilda2ics
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:Matsedel
-DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser\nChilikyckling serveras med ugnsrostad potatis\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260702T060833Z
-UID:2026-07-03-2235697336719445075@matilda2ics
+DTSTAMP:20260703T060214Z
+UID:2026-07-03-3947216168448931038@matilda2ics
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 SUMMARY:Matsedel
