@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260703T060214Z
-UID:2026-07-03-3947216168448931038@matilda2ics
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260704
+DTSTAMP:20260704T055412Z
+UID:2026-07-06-2493919847711879920@matilda2ics
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
 SUMMARY:Matsedel
-DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon\nOstsås med rökt hönskött serveras med pasta\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T055412Z
+UID:2026-07-07-8086122963529898428@matilda2ics
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Matsedel
+DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T055412Z
+UID:2026-07-08-8804294474594068527@matilda2ics
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Matsedel
+DESCRIPTION:Lasagne med bladspenat och ost (S)\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T055412Z
+UID:2026-07-09-8609449263582283232@matilda2ics
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Matsedel
+DESCRIPTION:Kökets val\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T055412Z
+UID:2026-07-10-5429179078249680177@matilda2ics
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Matsedel
+DESCRIPTION:Italiensk tomatsås med linser serveras med pasta\nKorv Stroganoff med kycklingkorv serveras med havreris och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
