@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260706T064556Z
-UID:2026-07-06-7631796892370812345@matilda2ics
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-SUMMARY:Matsedel
-DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon\nOstsås med rökt hönskött serveras med pasta\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260706T064556Z
-UID:2026-07-07-29087193244719752@matilda2ics
+DTSTAMP:20260707T061716Z
+UID:2026-07-07-2887273076698611303@matilda2ics
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Matsedel
 DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260706T064556Z
-UID:2026-07-08-8876217269137818352@matilda2ics
+DTSTAMP:20260707T061716Z
+UID:2026-07-08-2397749911073217306@matilda2ics
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne med bladspenat och ost (S)\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260706T064556Z
-UID:2026-07-09-5296083808717810150@matilda2ics
+DTSTAMP:20260707T061716Z
+UID:2026-07-09-155821892705596450@matilda2ics
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Matsedel
 DESCRIPTION:Kökets val\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260706T064556Z
-UID:2026-07-10-437921601935835326@matilda2ics
+DTSTAMP:20260707T061716Z
+UID:2026-07-10-780970948851617717@matilda2ics
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Matsedel
