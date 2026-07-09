@@ -5,24 +5,16 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260708T052954Z
-UID:2026-07-08-396102409693558371@matilda2ics
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-SUMMARY:Matsedel
-DESCRIPTION:Lasagne med bladspenat och ost (S)\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260708T052954Z
-UID:2026-07-09-5784065417880587091@matilda2ics
+DTSTAMP:20260709T061418Z
+UID:2026-07-09-6574792225596681884@matilda2ics
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:Matsedel
 DESCRIPTION:Kökets val\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260708T052954Z
-UID:2026-07-10-8264138950550578454@matilda2ics
+DTSTAMP:20260709T061418Z
+UID:2026-07-10-3751585023466345457@matilda2ics
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
 SUMMARY:Matsedel
