@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260710T061334Z
-UID:2026-07-10-8821180761044833305@matilda2ics
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
+DTSTAMP:20260711T052054Z
+UID:2026-07-13-8405571659722160007@matilda2ics
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
 SUMMARY:Matsedel
-DESCRIPTION:Italiensk tomatsås med linser serveras med pasta\nKorv Stroganoff med kycklingkorv serveras med havreris och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Ärtfärslimpa serveras med kokt potatis, havregräddsås, morötter och rårörda lingon\nSpaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T052054Z
+UID:2026-07-14-6683077666590177239@matilda2ics
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Matsedel
+DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T052054Z
+UID:2026-07-15-991847741799037033@matilda2ics
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Matsedel
+DESCRIPTION:Örtbiffar serveras med pasta och tomatsås\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T052054Z
+UID:2026-07-16-36789286945620329@matilda2ics
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Matsedel
+DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis, brunsås och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T052054Z
+UID:2026-07-17-9170325516322699043@matilda2ics
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Matsedel
+DESCRIPTION:Ugnspannkaka serveras med broccoli och rårörda lingon\nKroppkakor/kroppkakerulle serveras med skirat smör, broccoli och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
