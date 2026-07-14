@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260713T054732Z
-UID:2026-07-13-2022991665594068702@matilda2ics
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:Matsedel
-DESCRIPTION:Ärtfärslimpa serveras med kokt potatis, havregräddsås, morötter och rårörda lingon\nSpaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260713T054732Z
-UID:2026-07-14-1102651417091718514@matilda2ics
+DTSTAMP:20260714T050814Z
+UID:2026-07-14-1443048464452242484@matilda2ics
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:Matsedel
 DESCRIPTION:Vegansk grillkorv serveras med potatismos och kokta morötter\nKokt kycklingkorv serveras med potatismos och kokta morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260713T054732Z
-UID:2026-07-15-7822924273959807048@matilda2ics
+DTSTAMP:20260714T050814Z
+UID:2026-07-15-7639731088360032684@matilda2ics
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med pasta och tomatsås\nSprödbakad fisk serveras med kokt potatis och kall örtsås, ärtor, citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260713T054732Z
-UID:2026-07-16-8407514839461276192@matilda2ics
+DTSTAMP:20260714T050814Z
+UID:2026-07-16-920174464518609687@matilda2ics
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:Matsedel
 DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis, brunsås och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260713T054732Z
-UID:2026-07-17-7336134004516106353@matilda2ics
+DTSTAMP:20260714T050814Z
+UID:2026-07-17-4114618862916653516@matilda2ics
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
 SUMMARY:Matsedel
