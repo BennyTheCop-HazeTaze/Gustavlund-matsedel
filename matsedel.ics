@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260719T053123Z
-UID:2026-07-20-8372259359773809444@matilda2ics
+DTSTAMP:20260720T054832Z
+UID:2026-07-20-8716027890154025402@matilda2ics
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Matsedel
 DESCRIPTION:Örtbiffar serveras med potatismos och paprikasås\nFläskköttgryta med dragonsmak serveras med havreris\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260719T053123Z
-UID:2026-07-21-4113550276523319290@matilda2ics
+DTSTAMP:20260720T054832Z
+UID:2026-07-21-7518898032973734111@matilda2ics
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Matsedel
 DESCRIPTION:Stekt vegansk korv serveras med stuvade makaroner och broccoli\nStekt falukorv serveras med stuvade makaroner och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260719T053123Z
-UID:2026-07-22-638663686971381255@matilda2ics
+DTSTAMP:20260720T054832Z
+UID:2026-07-22-2950693447171667791@matilda2ics
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne med örter, keso och tomat\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260719T053123Z
-UID:2026-07-23-3716033354491356823@matilda2ics
+DTSTAMP:20260720T054832Z
+UID:2026-07-23-8171324736009218149@matilda2ics
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Matsedel
 DESCRIPTION:Pyttipanna med blomkål och gröna ärtor serveras med stekt ägg och rödbetor\nPytt i panna serveras med stekt ägg och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260719T053123Z
-UID:2026-07-24-3447375362556368688@matilda2ics
+DTSTAMP:20260720T054832Z
+UID:2026-07-24-2185785945013699594@matilda2ics
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Matsedel
