@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260721T052902Z
-UID:2026-07-21-1384470810760049117@matilda2ics
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-SUMMARY:Matsedel
-DESCRIPTION:Stekt vegansk korv serveras med stuvade makaroner och broccoli\nStekt falukorv serveras med stuvade makaroner och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260721T052902Z
-UID:2026-07-22-6955820101713707242@matilda2ics
+DTSTAMP:20260722T052759Z
+UID:2026-07-22-4111685244207940601@matilda2ics
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne med örter, keso och tomat\nKöttfärslimpa serveras med kokt potatis, brunsås, ärtor och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T052902Z
-UID:2026-07-23-3286480497082144931@matilda2ics
+DTSTAMP:20260722T052759Z
+UID:2026-07-23-2947071002652428191@matilda2ics
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 SUMMARY:Matsedel
 DESCRIPTION:Pyttipanna med blomkål och gröna ärtor serveras med stekt ägg och rödbetor\nPytt i panna serveras med stekt ägg och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T052902Z
-UID:2026-07-24-2828053617583708848@matilda2ics
+DTSTAMP:20260722T052759Z
+UID:2026-07-24-3174625846268386699@matilda2ics
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Matsedel
