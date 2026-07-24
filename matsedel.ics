@@ -5,16 +5,8 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260723T053311Z
-UID:2026-07-23-7674652070971602840@matilda2ics
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-SUMMARY:Matsedel
-DESCRIPTION:Pyttipanna med blomkål och gröna ärtor serveras med stekt ägg och rödbetor\nPytt i panna serveras med stekt ägg och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260723T053311Z
-UID:2026-07-24-5217845257797629498@matilda2ics
+DTSTAMP:20260724T052841Z
+UID:2026-07-24-2543032908215409174@matilda2ics
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260725
 SUMMARY:Matsedel
