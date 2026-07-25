@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260724T052841Z
-UID:2026-07-24-2543032908215409174@matilda2ics
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
+DTSTAMP:20260725T052249Z
+UID:2026-07-27-1024922009440043763@matilda2ics
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
 SUMMARY:Matsedel
-DESCRIPTION:Ugnsgratinerad makaronilåda "Mac n’ cheese" serveras med ärtor\nKorv Stroganoff med falukorv serveras med havreris och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Italiensk tomatsås med linser serveras med pasta\nUgnsstekt fisk med krispigt örttäcke serveras med kokt potatis, vitvinssås och morötter\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T052249Z
+UID:2026-07-28-3274649945587637924@matilda2ics
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Matsedel
+DESCRIPTION:Grönsaksbiff Caribbien serveras med klyftpotatis och het tomatsås\nKöttbullar serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T052249Z
+UID:2026-07-29-8770301090953851295@matilda2ics
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med potatismos, broccoli och rårörda lingon\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T052249Z
+UID:2026-07-30-9109139683443835821@matilda2ics
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Matsedel
+DESCRIPTION:Lasagne tillagad på sås av tomat, grönsaker och linser\nChilikyckling serveras med ugnsrostad potatis\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260725T052249Z
+UID:2026-07-31-7242889386959682694@matilda2ics
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Matsedel
+DESCRIPTION:Falafel i libabröd serveras med picklad rödlök och kall vitlökssås\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
