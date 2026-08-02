@@ -5,40 +5,40 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260801T053445Z
-UID:2026-08-03-835589023800362403@matilda2ics
+DTSTAMP:20260802T053530Z
+UID:2026-08-03-772319349901236390@matilda2ics
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
 SUMMARY:Matsedel
 DESCRIPTION:Potatis- och zucchiniplättar serveras med rårörda lingon\nOstsås med rökt hönskött serveras med pasta\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T053445Z
-UID:2026-08-04-6548322442320001407@matilda2ics
+DTSTAMP:20260802T053530Z
+UID:2026-08-04-4478439546447783857@matilda2ics
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
 SUMMARY:Matsedel
 DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T053445Z
-UID:2026-08-05-3125347408575579665@matilda2ics
+DTSTAMP:20260802T053530Z
+UID:2026-08-05-6079149961878345526@matilda2ics
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Matsedel
 DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T053445Z
-UID:2026-08-06-1251455967567839223@matilda2ics
+DTSTAMP:20260802T053530Z
+UID:2026-08-06-4324304030914150902@matilda2ics
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260801T053445Z
-UID:2026-08-07-5206885228894082897@matilda2ics
+DTSTAMP:20260802T053530Z
+UID:2026-08-07-2024814914497220519@matilda2ics
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Matsedel
