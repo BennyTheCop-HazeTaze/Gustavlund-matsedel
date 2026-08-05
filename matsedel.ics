@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260804T052340Z
-UID:2026-08-04-5141465868630150005@matilda2ics
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:Matsedel
-DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nKålpudding serveras med kokt potatis, brunsås, morötter och rårörda lingon\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260804T052340Z
-UID:2026-08-05-3601783189892329014@matilda2ics
+DTSTAMP:20260805T052329Z
+UID:2026-08-05-5008638884511642870@matilda2ics
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:Matsedel
 DESCRIPTION:Chili sin carne på ärtfärs serveras med havreris\nSprödbakad fisk serveras med kokt potatis, kall dillsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260804T052340Z
-UID:2026-08-06-4025672934786124765@matilda2ics
+DTSTAMP:20260805T052329Z
+UID:2026-08-06-3081023469903786882@matilda2ics
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
 SUMMARY:Matsedel
 DESCRIPTION:Skolmatsval Ärtfärsbolognese serveras med pasta\nSkolmatsval Spaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260804T052340Z
-UID:2026-08-07-4155326873809674385@matilda2ics
+DTSTAMP:20260805T052329Z
+UID:2026-08-07-2886276590928664514@matilda2ics
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:Matsedel
