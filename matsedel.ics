@@ -5,32 +5,24 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260811T035315Z
-UID:2026-08-11-7793457563122700655@matilda2ics
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:Matsedel
-DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nStekt kycklingkorv serveras med stuvade makaroner, kokta morötter, ketchup och senap\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260811T035315Z
-UID:2026-08-12-7355627982767424497@matilda2ics
+DTSTAMP:20260812T041545Z
+UID:2026-08-12-4186607732841491641@matilda2ics
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Matsedel
 DESCRIPTION:Lasagne med örter, keso och tomat\nSmåländska isterband serveras med dillstuvad potatis och inlagda rödbetor\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260811T035315Z
-UID:2026-08-13-4442625743368411387@matilda2ics
+DTSTAMP:20260812T041545Z
+UID:2026-08-13-8534547834389701275@matilda2ics
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
 SUMMARY:Matsedel
 DESCRIPTION:Krämig grönsakssoppa serveras med bröd, ost och frukt samt salladsbuffé\nKycklingsoppa med rotfrukter serveras med bröd, ost och frukt\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260811T035315Z
-UID:2026-08-14-8316804209017324269@matilda2ics
+DTSTAMP:20260812T041545Z
+UID:2026-08-14-4126944220066569020@matilda2ics
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Matsedel
