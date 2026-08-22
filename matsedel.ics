@@ -5,11 +5,43 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260821T031354Z
-UID:2026-08-21-1589145128299173139@matilda2ics
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
+DTSTAMP:20260822T030547Z
+UID:2026-08-24-6923278205762474539@matilda2ics
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
 SUMMARY:Matsedel
-DESCRIPTION:Nudelwok med ärt och bondbönstrimlor serveras med kall yoghurtsås smaksatt med sweet chili\nKorv Stroganoff med kycklingkorv serveras med havreris och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nStekt kycklingkorv serveras med stuvade makaroner, kokta morötter, ketchup och senap\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T030547Z
+UID:2026-08-25-6535160307981306637@matilda2ics
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Matsedel
+DESCRIPTION:Ärtfärsbollar serveras med potatismos, broccoli och rårörda lingon\nSpaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T030547Z
+UID:2026-08-26-6610841960235336984@matilda2ics
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Matsedel
+DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T030547Z
+UID:2026-08-27-6224615387278781628@matilda2ics
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Matsedel
+DESCRIPTION:Pastasallad - välj dina tillbehör\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T030547Z
+UID:2026-08-28-8588288618191149089@matilda2ics
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Matsedel
+DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis, brunsås och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 END:VCALENDAR
