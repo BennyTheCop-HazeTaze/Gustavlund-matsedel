@@ -5,40 +5,32 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
 BEGIN:VEVENT
-DTSTAMP:20260824T031446Z
-UID:2026-08-24-8626880171149054995@matilda2ics
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:Matsedel
-DESCRIPTION:Ost- och broccolibiffar serveras med ugnsrostad potatis, tomatsås och morötter\nStekt kycklingkorv serveras med stuvade makaroner, kokta morötter, ketchup och senap\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260824T031446Z
-UID:2026-08-25-6941090590806341342@matilda2ics
+DTSTAMP:20260825T031050Z
+UID:2026-08-25-5362458732664957075@matilda2ics
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:Matsedel
 DESCRIPTION:Ärtfärsbollar serveras med potatismos, broccoli och rårörda lingon\nSpaghetti Bolognese på nötfärs serveras med ketchup\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260824T031446Z
-UID:2026-08-26-6447151280358765564@matilda2ics
+DTSTAMP:20260825T031050Z
+UID:2026-08-26-7292688872643363409@matilda2ics
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Matsedel
 DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260824T031446Z
-UID:2026-08-27-4812872228874743600@matilda2ics
+DTSTAMP:20260825T031050Z
+UID:2026-08-27-4044004945725865665@matilda2ics
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Matsedel
 DESCRIPTION:Pastasallad - välj dina tillbehör\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260824T031446Z
-UID:2026-08-28-2618670748513520653@matilda2ics
+DTSTAMP:20260825T031050Z
+UID:2026-08-28-6966397937805929008@matilda2ics
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Matsedel
