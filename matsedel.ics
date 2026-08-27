@@ -4,28 +4,4 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Gustavlundsskolan matsedel
 X-WR-TIMEZONE:Europe/Stockholm
-BEGIN:VEVENT
-DTSTAMP:20260826T031551Z
-UID:2026-08-26-4515262809347103224@matilda2ics
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Matsedel
-DESCRIPTION:Vinnare Klimatkocken 2025 Pasta i krämig tomatsås med vita bönor och soltorkad tomat "One pot pasta"\nFisk med frasigt täcke serveras med kokt potatis, kall remouladsås, ärtor och citron\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260826T031551Z
-UID:2026-08-27-2057557792763644911@matilda2ics
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Matsedel
-DESCRIPTION:Pastasallad - välj dina tillbehör\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260826T031551Z
-UID:2026-08-28-2529961874242277145@matilda2ics
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Matsedel
-DESCRIPTION:Tacogratäng med linser serveras med tomatsalsa\nPannbiff med stekt lök serveras med kokt potatis, brunsås och broccoli\nSalladsbuffén, som är en variation av svenska och ekologiska grönsaker, serveras till samtliga måltider.
-END:VEVENT
 END:VCALENDAR
